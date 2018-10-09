@@ -1,0 +1,4 @@
+13.0
+2
+1       SQLCHAR             0       256     ","      1     ServiceName               ""
+2       SQLCHAR             0       20      "\r\n"   2     StartType                 ""
