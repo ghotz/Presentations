@@ -1,4 +1,4 @@
 # One Day - Enterprise Application (XeDotNet)
-* https://www.xedotnet.org/eventi/one-day-enterprise-application
+* Event Site: https://www.xedotnet.org/eventi/one-day-enterprise-application
 * Slideshare: (soon)
 * Vimeo: (soon)
