@@ -6,4 +6,4 @@ This repo containts the missing database backupset for the lab and some script t
 
 Video recording from Rome event:
 
-- Modernizing SQL Server the right way(https://vimeo.com/ugiss/sql2008-eos)
+- [Modernizing SQL Server the right way](https://vimeo.com/ugiss/sql2008-eos)
