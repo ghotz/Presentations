@@ -1,4 +1,4 @@
-# SQL Start 2019 Ancona
+# SQL Start 2019
 * Event site: https://www.sqlstart.it/2019
 ## SQL Server 2019 CTP 2.2
 * Slideshare: https://www.slideshare.net/ghotz/sql-server-2019-ctp22

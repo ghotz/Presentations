@@ -1,6 +1,6 @@
-# SQL Start 2022 Online
+# SQL Start 2023 Ancona
 
-- Event site: https://www.sqlstart.it/2022
+- Event site: https://www.sqlstart.it/2023
 
 ## SQL Server Virtualization with Polybase
 
