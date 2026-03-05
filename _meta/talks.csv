@@ -1,0 +1,28 @@
+"event_key","talk_title","author_keys","slideshare","youtube","vimeo"
+"1n0ah","SQL Server Back to Basics - Sicurezza","ghotz","https://www.slideshare.net/slideshow/sql-server-back-to-basics-sicurezza/250267646",,
+"ds01","SQL Server Failover Cluster Instances con Azure Managed Disks","ghotz","https://www.slideshare.net/slideshow/sql-server-failover-cluster-instances-con-azure-managed-disks/250267666",,
+"sst2021","SQL Server Modern Query Processing","ghotz","https://www.slideshare.net/slideshow/sql-server-modern-query-processing-250267678/250267678","https://www.youtube.com/watch?v=jh3CJ1ns0JQ","https://vimeo.com/ugiss/sqlserveraws"
+"sst2021","SQL Server in AWS","ghotz","https://www.slideshare.net/slideshow/sql-server-in-aws/250267673","https://www.youtube.com/watch?v=3hpPpK-qUM0","https://vimeo.com/ugiss/sqlserveraws","https://vimeo.com/ugiss/modernquery"
+"cmd21","Azure SQL Database Ledger","ghotz","https://www.slideshare.net/slideshow/azure-sql-database-ledger/250267690",,
+"aws2109","Come utilizzare AWS DMS per migrare SQL Server ad Amazon RDS","ghotz","https://www.slideshare.net/slideshow/come-utilizzare-aws-database-migration-service-per-migrare-sql-server-ad-amazon-rds/250267712",,
+"cd21","SQL Server in AWS","ghotz","https://www.slideshare.net/slideshow/sql-server-in-aws-251477824/251477824",,
+"awsemea21","Best Practices for Running Microsoft SQL Server on AWS","ghotz","https://www.slideshare.net/slideshow/best-practices-for-running-microsoft-sql-server-on-aws/251477837",,
+"aws2111","Come utilizzare AWS DMS per migrare SQL Server ad Amazon Aurora","ghotz","https://www.slideshare.net/slideshow/come-utilizzare-aws-dms-per-migrare-sql-server-ad-amazon-aurora/251477842",,
+"ds20","Azure SQL Database Ledger","ghotz","https://www.slideshare.net/slideshow/azure-sql-database-ledger-251477845/251477845",,
+"sst2022","Data Integrity with SQL Database Ledger","ghotz","https://www.slideshare.net/ghotz/data-integrity-with-sql-database-ledger","https://www.youtube.com/watch?v=SEw5GAgJKO0","https://vimeo.com/ugiss/data-integrity-ledger"
+"bbup22","Un caso reale - meccanismi anticontraffazione","ghotz",,,
+"wpc2022","IaaS and PaaS relational databases in the cloud","ghotz","https://www.slideshare.net/ghotz/iaas-and-paas-relational-databases-in-the-cloud",,
+"ds22","Le novità di SQL Server 2022","ghotz","https://www.slideshare.net/ghotz/le-novit-di-sql-server-2022","https://youtu.be/d9ornb8vWnw","https://vimeo.com/ugiss/sql2022news"
+"ds31","SQL Server 2022 Intelligent Query Processing","ghotz","https://www.slideshare.net/ghotz/sql-server-2022-intelligent-query-processing","https://youtu.be/HGPjZkV3iqo","https://vimeo.com/ugiss/sql2022iqp"
+"sst2023","SQL Server 2022 Programmability & Performance","ghotz",,,
+"ds37","SQL Server PaaS","ghotz","https://www.slideshare.net/slideshows/microsoft-sql-server-paas-platform-as-a-service/266563226",,
+"wpc2023","Multitenancy con SQL Server e Azure SQL Database","ghotz","https://www.slideshare.net/secret/GihuB7JMzA2eLO",,
+"ds48","Multitenancy con SQL Server e Azure SQL Database","ghotz","https://www.slideshare.net/slideshows/multitenancy-con-sql-server-e-azure-sql-database-5f01/266563309",,
+"wpc2024,"Azure Database Fleet Manager","ghotz",,,
+"ds66","Fondamenti sulla Sicurezza in SQL Server","ghotz",,,
+"xe2025",Database temporali con SQL Server",ghotz,,,
+"sst2025","Fondamenti di SQL Server - concorrenza, locking e isolamento","ghotz",,,
+"sst2025","Fondamenti di SQL Server - metodi di accesso ai dati","ghotz",,,
+"ds77","Data Virtualization con Azure SQL Database","ghotz",,,
+"wpc2025","SQL Server 2025 - amministrazione e prestazioni","ghotz",,,
+"ds80","SQL Server 2025 - amministrazione e prestazioni","ghotz",,,
