@@ -117,7 +117,7 @@ function Test-Url([string]$url) {
         $wbResp = Invoke-RestMethod -Uri $wbApi -TimeoutSec 10 -ErrorAction Stop
         if ($wbResp.archived_snapshots.closest.available -eq $true) {
           $archiveUrl = $wbResp.archived_snapshots.closest.url
-          Write-Warning "  -> Replaced with archive.org: $archiveUrl"
+          Write-Warning "  -> URL returned $status; substituted with archive.org snapshot: $archiveUrl"
           $checkedUrls[$url] = $archiveUrl
           return $archiveUrl
         }
@@ -329,7 +329,7 @@ foreach ($g in $byBucket) {
   $lines.Add("# $bucket")
   $lines.Add("")
 
-  $years = $g.Group | Group-Object Year | Sort-Object Name
+  $years = $g.Group | Group-Object Year | Sort-Object Name -Descending
   foreach ($yg in $years) {
     $lines.Add("## $($yg.Name)")
     $lines.Add("")
@@ -364,7 +364,7 @@ $root.Add("")
 $root.Add("## By year")
 $root.Add("")
 
-$byYear = $indexData | Sort-Object Date -Descending | Group-Object Year
+$byYear = $indexData | Sort-Object Date -Descending | Group-Object Year | Sort-Object { [int]$_.Name } -Descending
 foreach ($g in $byYear) {
   $root.Add("### $($g.Name)")
   $root.Add("")
