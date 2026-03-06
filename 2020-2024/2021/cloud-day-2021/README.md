@@ -1,7 +1,7 @@
 # Cloud Day 2021
 
 - Event site: <https://www.cloudday.it/e/2175/Cloud-Day-2021>
-- Sessionize: <https://sessionize.com/cloud-day-2021/>
+- Sessionize: <https://sessionize.com/cloud-day-2021>
 
 ## SQL Server in AWS
 

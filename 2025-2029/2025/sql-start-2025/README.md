@@ -1,7 +1,7 @@
 # SQL Start 2025
 
-- Event site: <https://web.archive.org/web/20250613163117/https://www.sqlstart.it/sessions/>
-- Sessionize: <https://sessionize.com/sql-start-2025/>
+- Event site: <https://web.archive.org/web/20250613163117/https://www.sqlstart.it/sessions>
+- Sessionize: <https://sessionize.com/sql-start-2025>
 
 ## Fondamenti di SQL Server - concorrenza, locking e isolamento
 

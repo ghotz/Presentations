@@ -1,7 +1,7 @@
 # Data Saturday 66 Pordenone 2025
 
 - Event site: <https://datasaturdays.com/Event/20250222-datasaturday0066>
-- Sessionize: <https://sessionize.com/datasatpn2025/>
+- Sessionize: <https://sessionize.com/datasatpn2025>
 
 ## Fondamenti sulla Sicurezza in SQL Server
 

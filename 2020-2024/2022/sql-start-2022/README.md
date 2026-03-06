@@ -1,7 +1,7 @@
 # SQL Start 2022
 
 - Event site: <https://web.archive.org/web/20220814222010/https://www.sqlstart.it/2022/Sessions>
-- Sessionize: <https://sessionize.com/sql-start-2022/>
+- Sessionize: <https://sessionize.com/sql-start-2022>
 
 ## Data Integrity with SQL Database Ledger
 

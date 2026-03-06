@@ -1,7 +1,7 @@
 # WPC 2023
 
 - Event site: <https://www.wpc.education/archivio/wpc-2023/wpc-2023>
-- Sessionize: <https://sessionize.com/wpc-2023/>
+- Sessionize: <https://sessionize.com/wpc-2023>
 
 ## Multitenancy con SQL Server e Azure SQL Database
 

@@ -56,6 +56,21 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2020-05-30** [SQL Saturday 921 Pordenone 2020](2020-2024/2020/sql-saturday-921-pordenone-2020/)
 - **2020-04-15** [PASS Italian Virtual Group 2020-04](2020-2024/2020/pass-italian-virtual-group-2020-04/)
 
+### 2019
+
+- **2019-12-12** [Microsoft Azure Training Day: Data and Analytics](2015-2019/2019/microsoft-azure-training-day-data-and-analytics/)
+- **2019-12-03** [WPC 2019](2015-2019/2019/wpc-2019/)
+- **2019-11-23** [SQL Saturday 895 Parma 2019](2015-2019/2019/sql-saturday-895-parma-2019/)
+- **2019-10-12** [Azure Saturday Pordenone 2019](2015-2019/2019/azure-saturday-pordenone-2019/)
+- **2019-09-16** [DAMAG Meetup 2019-09](2015-2019/2019/damag-meetup-2019-09/)
+- **2019-06-14** [PASS Modern Migration Tour 2019](2015-2019/2019/pass-modern-migration-tour-2019/)
+- **2019-05-25** [XE One Day - Enterprise Applications](2015-2019/2019/xe-one-day-enterprise-applications/)
+- **2019-05-18** [SQL Saturday 871 Sardegna 2019](2015-2019/2019/sql-saturday-871-sardegna-2019/)
+- **2019-04-27** [Azure Bootcamp Verona 2019](2015-2019/2019/azure-bootcamp-verona-2019/)
+- **2019-04-27** [Azure Bootcamp Milano 2019](2015-2019/2019/azure-bootcamp-milano-2019/)
+- **2019-04-06** [SQL Start 2019](2015-2019/2019/sql-start-2019/)
+- **2019-02-23** [SQL Saturday 829 Pordenone 2019](2015-2019/2019/sql-saturday-829-pordenone-2019/)
+
 ## By series
 
 ### 1nn0va After Hours
@@ -71,6 +86,15 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2021-11-03** [SQL Server on AWS](2020-2024/2021/sql-server-on-aws/)
 
+### Azure Bootcamp
+
+- **2019-04-27** [Azure Bootcamp Verona 2019](2015-2019/2019/azure-bootcamp-verona-2019/)
+- **2019-04-27** [Azure Bootcamp Milano 2019](2015-2019/2019/azure-bootcamp-milano-2019/)
+
+### Azure Saturday
+
+- **2019-10-12** [Azure Saturday Pordenone 2019](2015-2019/2019/azure-saturday-pordenone-2019/)
+
 ### Cloud Day
 
 - **2021-10-21** [Cloud Day 2021](2020-2024/2021/cloud-day-2021/)
@@ -78,6 +102,10 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### Community Days
 
 - **2021-06-24** [Community Days 2021](2020-2024/2021/community-days-2021/)
+
+### DAMAG Meetup
+
+- **2019-09-16** [DAMAG Meetup 2019-09](2015-2019/2019/damag-meetup-2019-09/)
 
 ### Data Saturday
 
@@ -91,13 +119,24 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2022-02-26** [Data Saturday 20 Pordenone 2022](2020-2024/2022/data-saturday-20-pordenone-2022/)
 - **2021-02-27** [Data Saturday 1 Pordenone 2021](2020-2024/2021/data-saturday-1-pordenone-2021/)
 
+### Microsoft Azure Training Day
+
+- **2019-12-12** [Microsoft Azure Training Day: Data and Analytics](2015-2019/2019/microsoft-azure-training-day-data-and-analytics/)
+
 ### PASS Italian VG
 
 - **2020-04-15** [PASS Italian Virtual Group 2020-04](2020-2024/2020/pass-italian-virtual-group-2020-04/)
 
+### PASS Migration Tours
+
+- **2019-06-14** [PASS Modern Migration Tour 2019](2015-2019/2019/pass-modern-migration-tour-2019/)
+
 ### SQL Saturday
 
 - **2020-05-30** [SQL Saturday 921 Pordenone 2020](2020-2024/2020/sql-saturday-921-pordenone-2020/)
+- **2019-11-23** [SQL Saturday 895 Parma 2019](2015-2019/2019/sql-saturday-895-parma-2019/)
+- **2019-05-18** [SQL Saturday 871 Sardegna 2019](2015-2019/2019/sql-saturday-871-sardegna-2019/)
+- **2019-02-23** [SQL Saturday 829 Pordenone 2019](2015-2019/2019/sql-saturday-829-pordenone-2019/)
 
 ### SQL Start
 
@@ -106,6 +145,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2022-06-10** [SQL Start 2022](2020-2024/2022/sql-start-2022/)
 - **2021-06-11** [SQL Start 2021](2020-2024/2021/sql-start-2021/)
 - **2020-06-25** [SQL Start 2020](2020-2024/2020/sql-start-2020/)
+- **2019-04-06** [SQL Start 2019](2015-2019/2019/sql-start-2019/)
 
 ### UGISS Webinars
 
@@ -119,7 +159,9 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2023-11-29** [WPC 2023](2020-2024/2023/wpc-2023/)
 - **2022-10-17** [WPC 2022](2020-2024/2022/wpc-2022/)
 - **2020-11-18** [WPC 2020](2020-2024/2020/wpc-2020/)
+- **2019-12-03** [WPC 2019](2015-2019/2019/wpc-2019/)
 
 ### XE Events
 
 - **2025-05-23** [XE SQL Night 2025](2025-2029/2025/xe-sql-night-2025/)
+- **2019-05-25** [XE One Day - Enterprise Applications](2015-2019/2019/xe-one-day-enterprise-applications/)

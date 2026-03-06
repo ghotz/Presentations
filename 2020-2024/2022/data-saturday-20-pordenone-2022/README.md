@@ -1,7 +1,7 @@
 # Data Saturday 20 Pordenone 2022
 
 - Event site: <https://datasaturdays.com/Event/20220226-datasaturday0020>
-- Sessionize: <https://sessionize.com/datasatpn22/>
+- Sessionize: <https://sessionize.com/datasatpn22>
 
 ## Azure SQL Database Ledger
 

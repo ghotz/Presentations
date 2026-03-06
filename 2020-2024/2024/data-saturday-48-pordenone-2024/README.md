@@ -1,7 +1,7 @@
 # Data Saturday 48 Pordenone 2024
 
 - Event site: <https://datasaturdays.com/Event/20240224-datasaturday0048>
-- Sessionize: <https://sessionize.com/datasatpn2024/>
+- Sessionize: <https://sessionize.com/datasatpn2024>
 
 ## Multitenancy con SQL Server e Azure SQL Database
 

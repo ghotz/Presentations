@@ -1,7 +1,7 @@
 # SQL Start 2021
 
 - Event site: <https://web.archive.org/web/20240222004425/https://www.sqlstart.it/2021>
-- Sessionize: <https://sessionize.com/sql-start-2021/>
+- Sessionize: <https://sessionize.com/sql-start-2021>
 
 ## SQL Server Modern Query Processing
 

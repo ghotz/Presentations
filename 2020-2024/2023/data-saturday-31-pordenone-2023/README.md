@@ -1,7 +1,7 @@
 # Data Saturday 31 Pordenone 2023
 
 - Event site: <https://datasaturdays.com/Event/20230225-datasaturday0031>
-- Sessionize: <https://sessionize.com/datasatpn2023/>
+- Sessionize: <https://sessionize.com/datasatpn2023>
 
 ## SQL Server 2022 Intelligent Query Processing
 

@@ -1,7 +1,7 @@
 # Data Saturday 1 Pordenone 2021
 
 - Event site: <https://datasaturdays.com/Event/20210227-datasaturday0001>
-- Sessionize: <https://sessionize.com/datasaturday0001/>
+- Sessionize: <https://sessionize.com/datasaturday0001>
 
 ## SQL Server Failover Cluster Instances con Azure Managed Disks
 
