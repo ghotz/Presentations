@@ -233,6 +233,11 @@ foreach ($e in $events) {
 
   if (HasValue $e.event_site) {
     $lines.Add((Format-ExternalLink "Event site" $e.event_site))
+  }
+  if (HasValue $e.sessionize_url) {
+    $lines.Add((Format-ExternalLink "Sessionize" $e.sessionize_url))
+  }
+  if ((HasValue $e.event_site) -or (HasValue $e.sessionize_url)) {
     $lines.Add("")
   }
 
@@ -243,9 +248,10 @@ foreach ($e in $events) {
       $lines.Add("## $($t.talk_title.Trim())")
       $lines.Add("")
 
-      if (HasValue $t.slideshare) { $lines.Add((Format-ExternalLink "Slideshare" $t.slideshare)) }
-      if (HasValue $t.youtube)    { $lines.Add((Format-ExternalLink "Youtube" $t.youtube)) }
-      if (HasValue $t.vimeo)      { $lines.Add((Format-ExternalLink "Vimeo" $t.vimeo)) }
+      if (HasValue $t.slideshare)     { $lines.Add((Format-ExternalLink "Slideshare" $t.slideshare)) }
+      if (HasValue $t.youtube)        { $lines.Add((Format-ExternalLink "Youtube" $t.youtube)) }
+      if (HasValue $t.vimeo)          { $lines.Add((Format-ExternalLink "Vimeo" $t.vimeo)) }
+      if (HasValue $t.sessionize_url) { $lines.Add((Format-ExternalLink "Sessionize" $t.sessionize_url)) }
 
       $lines.Add("")
     }

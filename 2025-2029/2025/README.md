@@ -10,4 +10,4 @@
 - [WPC 2025](wpc-2025/)
   - Talk: SQL Server 2025 - amministrazione e prestazioni
 - [XE SQL Night 2025](xe-sql-night-2025/)
-  - Talk: Database temporali con SQL Server"
+  - Talk: Database temporali con SQL Server

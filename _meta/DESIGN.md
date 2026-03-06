@@ -20,7 +20,9 @@ One row per event. The script reads all columns but only **writes back** `event_
 | `title` | yes | Full event title — also drives the kebab-case directory name | `Data Saturday 31 Pordenone 2023` |
 | `city` | no | City (CSV only, not shown in READMEs) | `Pordenone` |
 | `country` | no | Country code (CSV only, not shown in READMEs) | `IT` |
+| `event_format` | no | `virtual`, `in-person`, or `hybrid` (CSV only, not shown in READMEs) | `in-person` |
 | `event_site` | no | URL to event page | `https://datasaturdays.com/Event/20230225-datasaturday0031` |
+| `sessionize_url` | no | URL to the event on Sessionize | |
 | `event_repo` | auto | **Written by script.** GitHub URL to event directory | |
 | `demo_url` | auto | **Written by script.** GitHub URL to demos directory | |
 
@@ -32,12 +34,13 @@ One row per talk. Multiple rows with the same `event_key` = multiple talks at th
 |---|---|---|---|
 | `event_key` | yes | FK to events.csv | `ds31` |
 | `talk_title` | yes | Session title | `SQL Server 2022 Intelligent Query Processing` |
-| `author_keys` | yes | Semicolon-separated keys into authors.csv | `ghotz` |
+| `author_keys` | yes | JSON array of keys into authors.csv | `["ghotz"]` |
 | `slideshare` | no | SlideShare URL | `https://www.slideshare.net/ghotz/sql-server-2022-intelligent-query-processing` |
 | `youtube` | no | YouTube URL | `https://youtu.be/HGPjZkV3iqo` |
 | `vimeo` | no | Vimeo URL | `https://vimeo.com/ugiss/sql2022iqp` |
+| `sessionize_url` | no | URL to the session on Sessionize | |
 
-Note: `author_keys` is stored for use by other tools. The script does **not** render authors in READMEs.
+Note: `author_keys` is a JSON array (e.g. `["ghotz","jdoe"]`) for future normalization when migrating to SQL Server. The script does **not** render authors in READMEs.
 
 ### authors.csv
 
@@ -132,9 +135,9 @@ repo-root/
 ### Event (`2020-2024/2023/data-saturday-31-pordenone-2023/README.md`)
 
 - H1: event title from CSV
-- Event site as external link (if present)
+- Event site and Sessionize URL as external links (if present)
 - H2 per talk title
-- Under each talk: slideshare/youtube/vimeo links (only if present)
+- Under each talk: slideshare/youtube/vimeo/sessionize links (only if present)
 - If a talk has no links, just the H2 heading with a blank line after it
 - **No author shown**
 - External URLs wrapped in `<>` (e.g. `<https://...>`)
@@ -203,8 +206,9 @@ updates are all gated behind `ShouldProcess`.
   pure markdown for readability on GitHub.
 - **kebab-case from title**: removes the need for a separate `folder_name` column; the
   title is the only input needed to derive the directory name deterministically.
-- **City/country only in CSV**: keeps README output clean; the event title usually already
-  includes location info (e.g. "Pordenone 2023").
+- **City/country/event_format only in CSV**: keeps README output clean; the event title usually
+  already includes location info (e.g. "Pordenone 2023"). `event_format` tracks whether an
+  event was `virtual`, `in-person`, or `hybrid`.
 - **authors.csv loaded but not rendered**: the CSV ecosystem is shared with other tools;
   the script validates it but event READMEs don't show authors to keep them minimal.
 - **`demos/` always created**: simplifies workflow — just drop files in, no need to
