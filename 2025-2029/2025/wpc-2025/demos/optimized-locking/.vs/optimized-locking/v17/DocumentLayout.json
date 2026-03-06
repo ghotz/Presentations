@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive\\Documents\\Presentations\\UGISS\\20251202 WPC 2025\\Demos\\optimized-locking\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{69b600ca-607b-4b9e-8d51-1df1ff909b7e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{956e1b22-878b-499b-ac5c-2705c05370ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f3cc30de-5700-4a9c-bd30-3ffb28438786}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

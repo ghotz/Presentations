@@ -1,0 +1,30 @@
+22010-02-22 14:14:44.41 spid20s     deadlock-list
+2010-02-22 14:14:44.41 spid20s      deadlock victim=process3c39dc8
+2010-02-22 14:14:44.41 spid20s       process-list
+2010-02-22 14:14:44.41 spid20s        process id=process3c39dc8 taskpriority=0 logused=204 waitresource=RID: 2:1:110:0 waittime=7259 ownerId=10995 transactionname=user_transaction lasttranstarted=2010-02-22T14:14:26.797 XDES=0x81d6b970 lockMode=U schedulerid=2 kpid=360 status=suspended spid=52 sbid=0 ecid=0 priority=0 trancount=2 lastbatchstarted=2010-02-22T14:14:37.130 lastbatchcompleted=2010-02-22T14:14:26.797 clientapp=Microsoft SQL Server Management Studio - Query hostname=R2D3 hostpid=3056 loginname=r2d3\hal isolationlevel=read committed (2) xactid=10995 currentdb=2 lockTimeout=4294967295 clientoption1=671090784 clientoption2=390200
+2010-02-22 14:14:44.41 spid20s         executionStack
+2010-02-22 14:14:44.41 spid20s          frame procname=adhoc line=2 stmtstart=16 sqlhandle=0x02000000e794c704c6d8bbf463e34dda2d4d310c93ca1871
+2010-02-22 14:14:44.41 spid20s     UPDATE [t2] set [I] = @1     
+2010-02-22 14:14:44.41 spid20s          frame procname=adhoc line=2 stmtstart=4 sqlhandle=0x02000000428c7129ece73630bcb07979860e9ac12c4ae002
+2010-02-22 14:14:44.41 spid20s     UPDATE t2 SET I = 8     
+2010-02-22 14:14:44.41 spid20s         inputbuf
+2010-02-22 14:14:44.41 spid20s     UPDATE t2 SET I = 8    
+2010-02-22 14:14:44.41 spid20s        process id=process810d0bc8 taskpriority=0 logused=204 waitresource=RID: 2:1:89:0 waittime=2044 ownerId=10997 transactionname=user_transaction lasttranstarted=2010-02-22T14:14:32.180 XDES=0x846af970 lockMode=U schedulerid=1 kpid=3300 status=suspended spid=53 sbid=0 ecid=0 priority=0 trancount=2 lastbatchstarted=2010-02-22T14:14:42.347 lastbatchcompleted=2010-02-22T14:14:32.180 clientapp=Microsoft SQL Server Management Studio - Query hostname=R2D3 hostpid=3056 loginname=r2d3\hal isolationlevel=read committed (2) xactid=10997 currentdb=2 lockTimeout=4294967295 clientoption1=671090784 clientoption2=390200
+2010-02-22 14:14:44.41 spid20s         executionStack
+2010-02-22 14:14:44.41 spid20s          frame procname=adhoc line=2 stmtstart=16 sqlhandle=0x020000008e0f84152513901db2eedaf98ed4641a2ff89276
+2010-02-22 14:14:44.41 spid20s     UPDATE [t1] set [i] = @1     
+2010-02-22 14:14:44.41 spid20s          frame procname=adhoc line=2 stmtstart=4 sqlhandle=0x02000000b777a62369d20fea42263bf73e4e09f4b1f791cf
+2010-02-22 14:14:44.41 spid20s     UPDATE t1 SET i = 8     
+2010-02-22 14:14:44.41 spid20s         inputbuf
+2010-02-22 14:14:44.41 spid20s     UPDATE t1 SET i = 8    
+2010-02-22 14:14:44.41 spid20s       resource-list
+2010-02-22 14:14:44.41 spid20s        ridlock fileid=1 pageid=110 dbid=2 objectname=tempdb.dbo.t2 id=lock800c8c80 mode=X associatedObjectId=648518346669883392
+2010-02-22 14:14:44.41 spid20s         owner-list
+2010-02-22 14:14:44.41 spid20s          owner id=process810d0bc8 mode=X
+2010-02-22 14:14:44.41 spid20s         waiter-list
+2010-02-22 14:14:44.41 spid20s          waiter id=process3c39dc8 mode=U requestType=wait
+2010-02-22 14:14:44.41 spid20s        ridlock fileid=1 pageid=89 dbid=2 objectname=tempdb.dbo.t1 id=lock82a9b180 mode=X associatedObjectId=576460752590995456
+2010-02-22 14:14:44.41 spid20s         owner-list
+2010-02-22 14:14:44.41 spid20s          owner id=process3c39dc8 mode=X
+2010-02-22 14:14:44.41 spid20s         waiter-list
+2010-02-22 14:14:44.41 spid20s          waiter id=process810d0bc8 mode=U requestType=wait

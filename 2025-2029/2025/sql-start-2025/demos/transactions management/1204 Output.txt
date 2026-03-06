@@ -1,0 +1,31 @@
+2010-02-22 14:10:51.75 spid6s      Deadlock encountered .... Printing deadlock information
+2010-02-22 14:10:51.75 spid6s      Wait-for graph
+2010-02-22 14:10:51.84 spid6s      
+2010-02-22 14:10:51.84 spid6s      Node:1
+
+2010-02-22 14:10:51.84 spid6s      RID: 2:1:89:0                  CleanCnt:2 Mode:X Flags: 0x3
+2010-02-22 14:10:51.84 spid6s       Grant List 1:
+2010-02-22 14:10:51.84 spid6s         Owner:0x0000000082AA9640 Mode: X        Flg:0x40 Ref:0 Life:02000000 SPID:52 ECID:0 XactLockInfo: 0x0000000081D6B9B0
+2010-02-22 14:10:51.84 spid6s         SPID: 52 ECID: 0 Statement Type: UPDATE Line #: 6
+2010-02-22 14:10:51.84 spid6s         Input Buf: Language Event: 
+BEGIN TRAN
+
+INSERT INTO t1 VALUES(1)
+
+UPDATE t2 SET I = 8
+2010-02-22 14:10:51.84 spid6s      Requested by: 
+2010-02-22 14:10:51.84 spid6s        ResType:LockOwner Stype:'OR'Xdes:0x0000000080297970 Mode: U SPID:53 BatchID:0 ECID:0 TaskProxy:(0x000000008429C538) Value:0x8014c340 Cost:(0/204)
+2010-02-22 14:10:51.84 spid6s      
+2010-02-22 14:10:51.84 spid6s      Node:2
+
+2010-02-22 14:10:51.84 spid6s      RID: 2:1:110:0                 CleanCnt:2 Mode:X Flags: 0x3
+2010-02-22 14:10:51.84 spid6s       Grant List 0:
+2010-02-22 14:10:51.84 spid6s         Owner:0x000000008014D200 Mode: X        Flg:0x40 Ref:0 Life:02000000 SPID:53 ECID:0 XactLockInfo: 0x00000000802979B0
+2010-02-22 14:10:51.84 spid6s         SPID: 53 ECID: 0 Statement Type: UPDATE Line #: 2
+2010-02-22 14:10:51.84 spid6s         Input Buf: Language Event: 
+UPDATE t1 SET i = 8
+2010-02-22 14:10:51.84 spid6s      Requested by: 
+2010-02-22 14:10:51.84 spid6s        ResType:LockOwner Stype:'OR'Xdes:0x0000000081D6B970 Mode: U SPID:52 BatchID:0 ECID:0 TaskProxy:(0x0000000081878538) Value:0x82aa93c0 Cost:(0/276)
+2010-02-22 14:10:51.87 spid6s      
+2010-02-22 14:10:51.87 spid6s      Victim Resource Owner:
+2010-02-22 14:10:51.87 spid6s       ResType:LockOwner Stype:'OR'Xdes:0x0000000080297970 Mode: U SPID:53 BatchID:0 ECID:0 TaskProxy:(0x000000008429C538) Value:0x8014c340 Cost:(0/204)

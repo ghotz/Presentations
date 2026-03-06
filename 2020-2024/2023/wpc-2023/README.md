@@ -1,6 +1,6 @@
 # WPC 2023
 
-- Event site: <https://web.archive.org/web/20231211064710/https://www.wpc.education/agenda/sessioni>
+- Event site: <https://www.wpc.education/archivio/wpc-2023/wpc-2023>
 
 ## Multitenancy con SQL Server e Azure SQL Database
 

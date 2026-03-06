@@ -1,6 +1,6 @@
 # WPC 2022
 
-- Event site: <https://web.archive.org/web/20221007015744/https://www.wpc2022.it/speaker#data-platform>
+- Event site: <https://www.wpc.education/archivio/wpc-2022/wpc-2022>
 
 ## IaaS and PaaS relational databases in the cloud
 

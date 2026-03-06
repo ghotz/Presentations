@@ -1,5 +1,18 @@
 # 2020-2024
 
+## 2020
+
+- [PASS Italian Virtual Group 2020-04](2020/pass-italian-virtual-group-2020-04/)
+  - Talk: SQL Server Modern Query Processing
+- [SQL Saturday 921 Pordenone 2020](2020/sql-saturday-921-pordenone-2020/)
+  - Talk: SQL Server Data Virtualization with Polybase
+- [SQL Start 2020](2020/sql-start-2020/)
+  - Talk: SQL Server Data Virtualization with polybase
+- [UGISS Webinar 2020-12](2020/ugiss-webinar-2020-12/)
+  - Talk: SQL Server Failover Cluster Instances con Amazon FSx in AWS
+- [WPC 2020](2020/wpc-2020/)
+  - Talk: Azure - Quale Engine SQL Scegliere
+
 ## 2021
 
 - [1nn0va After Hours Febbraio 2021](2021/1nn0va-after-hours-febbraio-2021/)
@@ -49,3 +62,4 @@
 - [Data Saturday 48 Pordenone 2024](2024/data-saturday-48-pordenone-2024/)
   - Talk: Multitenancy con SQL Server e Azure SQL Database
 - [WPC 2024](2024/wpc-2024/)
+  - Talk: Azure Database Fleet Manager
