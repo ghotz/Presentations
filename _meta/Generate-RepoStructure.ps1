@@ -221,10 +221,6 @@ foreach ($e in $events) {
   # Always create demos directory
   if ($PSCmdlet.ShouldProcess($demoDir, "Create demos directory")) {
     New-Item -ItemType Directory -Force -Path $demoDir | Out-Null
-    $gitkeep = Join-Path $demoDir ".gitkeep"
-    if (-not (Test-Path $gitkeep)) {
-      Set-Content -Path $gitkeep -Value "" -Encoding ASCII
-    }
   }
 
   # Build event README — always overwritten

@@ -93,7 +93,7 @@ repo-root/
 - **Event directory**: kebab-case from `title` in events.csv
   - lowercase, non-alphanumeric characters replaced with `-`, collapsed, trimmed
   - `Data Saturday 31 Pordenone 2023` → `data-saturday-31-pordenone-2023`
-- **Demos**: always `demos/` inside each event directory (with `.gitkeep`)
+- **Demos**: always `demos/` inside each event directory
 
 ## README content at each level
 
