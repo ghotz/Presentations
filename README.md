@@ -96,11 +96,19 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2016-11-30** [WPC 2016](2015-2019/2016/wpc-2016/)
 - **2016-11-26** [SQL Saturday 566 Parma 2016](2015-2019/2016/sql-saturday-566-parma-2016/)
-- **2016-10-06** [Community Days 2016](2015-2019/2016/community-days-2016/)
+- **2016-10-06** [Future Decoded 2016](2015-2019/2016/future-decoded-2016/)
 - **2016-09-17** [SQL Tuning Saturday](2015-2019/2016/sql-tuning-saturday/)
 - **2016-06-15** [Server Infrastructure Days 2016](2015-2019/2016/server-infrastructure-days-2016/)
 - **2016-02-27** [SQL Saturday 495 Pordenone 2016](2015-2019/2016/sql-saturday-495-pordenone-2016/)
 - **2016-01-26** [Technical Cloud Day 2016](2015-2019/2016/technical-cloud-day-2016/)
+
+### 2015
+
+- **2015-11-12** [Future Decoded 2015](2015-2019/2015/future-decoded-2015/)
+- **2015-07-09** [Microsoft MVP Community Presentation](2015-2019/2015/microsoft-mvp-community-presentation/)
+- **2015-06-17** [Server Infrastructure Days 2015](2015-2019/2015/server-infrastructure-days-2015/)
+- **2015-05-23** [SQL Saturday 400 Torino 2015](2015-2019/2015/sql-saturday-400-torino-2015/)
+- **2015-03-27** [Community Days 2015](2015-2019/2015/community-days-2015/)
 
 ## By series
 
@@ -130,7 +138,9 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### Community Days
 
 - **2021-06-24** [Community Days 2021](2020-2024/2021/community-days-2021/)
-- **2016-10-06** [Community Days 2016](2015-2019/2016/community-days-2016/)
+- **2016-10-06** [Future Decoded 2016](2015-2019/2016/future-decoded-2016/)
+- **2015-11-12** [Future Decoded 2015](2015-2019/2015/future-decoded-2015/)
+- **2015-03-27** [Community Days 2015](2015-2019/2015/community-days-2015/)
 
 ### DAMAG Meetup
 
@@ -154,13 +164,14 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 ### Global Azure
 
-- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
 - **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
+- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
 - **2018-04-21** [Global Azure Bootcamp Verona 2018](2015-2019/2018/global-azure-bootcamp-verona-2018/)
 
-### Microsoft Azure Training Day
+### Microsoft Events
 
 - **2019-12-12** [Microsoft Azure Training Day: Data and Analytics](2015-2019/2019/microsoft-azure-training-day-data-and-analytics/)
+- **2015-07-09** [Microsoft MVP Community Presentation](2015-2019/2015/microsoft-mvp-community-presentation/)
 
 ### PASS Italian VG
 
@@ -177,6 +188,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2017-02-01** [Technical Cloud Day 2017](2015-2019/2017/technical-cloud-day-2017/)
 - **2016-06-15** [Server Infrastructure Days 2016](2015-2019/2016/server-infrastructure-days-2016/)
 - **2016-01-26** [Technical Cloud Day 2016](2015-2019/2016/technical-cloud-day-2016/)
+- **2015-06-17** [Server Infrastructure Days 2015](2015-2019/2015/server-infrastructure-days-2015/)
 
 ### SQL Saturday
 
@@ -191,6 +203,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2017-02-25** [SQL Saturday 589 Pordenone 2017](2015-2019/2017/sql-saturday-589-pordenone-2017/)
 - **2016-11-26** [SQL Saturday 566 Parma 2016](2015-2019/2016/sql-saturday-566-parma-2016/)
 - **2016-02-27** [SQL Saturday 495 Pordenone 2016](2015-2019/2016/sql-saturday-495-pordenone-2016/)
+- **2015-05-23** [SQL Saturday 400 Torino 2015](2015-2019/2015/sql-saturday-400-torino-2015/)
 
 ### SQL Start
 

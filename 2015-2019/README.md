@@ -74,10 +74,8 @@
 
 ## 2016
 
-- [Community Days 2016](2016/community-days-2016/)
-  - Talk: SQL Server 2016 e Azure SQL Database
+- [Future Decoded 2016](2016/future-decoded-2016/)
 - [Server Infrastructure Days 2016](2016/server-infrastructure-days-2016/)
-  - Talk: Azure SQL Database
   - Talk: SQL Server 2016 Upgrade from 20xx
 - [SQL Saturday 495 Pordenone 2016](2016/sql-saturday-495-pordenone-2016/)
   - Talk: Azure SQL Database
@@ -88,6 +86,19 @@
   - Talk: SQL Server Extended Events Monitoring & Tuning
 - [Technical Cloud Day 2016](2016/technical-cloud-day-2016/)
   - Talk: Azure SQL Database
-  - Talk: SQL Server 2016 Upgrade from 20xx
 - [WPC 2016](2016/wpc-2016/)
   - Talk: Supporto ai database temporali in SQL Server 2016
+
+## 2015
+
+- [Community Days 2015](2015/community-days-2015/)
+  - Talk: Scenari ibridi di alta disponibilità e disaster recovery con SQL Server
+- [Future Decoded 2015](2015/future-decoded-2015/)
+  - Talk: SQL Server 2016 News
+- [Microsoft MVP Community Presentation](2015/microsoft-mvp-community-presentation/)
+  - Talk: UGISS Community Presentation
+- [Server Infrastructure Days 2015](2015/server-infrastructure-days-2015/)
+  - Talk: SQL Server 2014 - From 0 to HA with Cluster and AlwaysOn
+  - Talk: SQL Server 2014 - Configuration and Best Practice
+- [SQL Saturday 400 Torino 2015](2015/sql-saturday-400-torino-2015/)
+  - Talk: SQL Server AlwaysOn
