@@ -1,0 +1,1 @@
+Msg (?<ErrNum>\d*), Level (?<ErrLevel>\d*), State (?<ErrState>\d*), Server (?<ErrServer>.*), Line (?<ErrLine>\d*)\x0d\x0a(?<ErrMsg>.*)\x0d\x0a

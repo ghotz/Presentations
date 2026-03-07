@@ -13,8 +13,6 @@
 
 ## 2013
 
-- [Seminario Politecnico Milano 2012](2013/seminario-politecnico-milano-2012/)
-  - Talk: Panoramica SQL Server
 - [Seminario Politecnico Milano 2013](2013/seminario-politecnico-milano-2013/)
   - Talk: Panoramica SQL Server
 - [Server Infrastructure Days 2013](2013/server-infrastructure-days-2013/)
@@ -30,6 +28,8 @@
 
 - [Seminario 1nn0va 2012-04](2012/seminario-1nn0va-2012-04/)
   - Talk: PowerShell for Windows and SQL Server Administration
+- [Seminario Politecnico Milano 2012](2012/seminario-politecnico-milano-2012/)
+  - Talk: Panoramica SQL Server
 - [SQL Saturday 176 Pordenone 2012](2012/sql-saturday-176-pordenone-2012/)
   - Talk: SQL Server 2012 AlwaysOn
 - [SQL Start 2012](2012/sql-start-2012/)

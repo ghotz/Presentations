@@ -1,0 +1,1 @@
+PowerShell -NoExit -Command ".\01.InitializeSQLProvider.ps1"

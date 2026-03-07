@@ -126,13 +126,13 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2013-06-19** [Server Infrastructure Days 2013](2010-2014/2013/server-infrastructure-days-2013/)
 - **2013-04-20** [SQL Saturday 196 Denmark 2013](2010-2014/2013/sql-saturday-196-denmark-2013/)
 - **2013-01-22** [Seminario Politecnico Milano 2013](2010-2014/2013/seminario-politecnico-milano-2013/)
-- **2013-01-22** [Seminario Politecnico Milano 2012](2010-2014/2013/seminario-politecnico-milano-2012/)
 
 ### 2012
 
 - **2012-11-17** [SQL Saturday 176 Pordenone 2012](2010-2014/2012/sql-saturday-176-pordenone-2012/)
 - **2012-09-28** [SQL Start 2012](2010-2014/2012/sql-start-2012/)
 - **2012-04-17** [Seminario 1nn0va 2012-04](2010-2014/2012/seminario-1nn0va-2012-04/)
+- **2012-01-24** [Seminario Politecnico Milano 2012](2010-2014/2012/seminario-politecnico-milano-2012/)
 
 ### 2011
 
@@ -205,8 +205,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### Microsoft Academy
 
 - **2014-01-14** [Seminario Politecnico Milano 2014](2010-2014/2014/seminario-politecnico-milano-2014/)
-- **2013-01-22** [Seminario Politecnico Milano 2012](2010-2014/2013/seminario-politecnico-milano-2012/)
 - **2013-01-22** [Seminario Politecnico Milano 2013](2010-2014/2013/seminario-politecnico-milano-2013/)
+- **2012-01-24** [Seminario Politecnico Milano 2012](2010-2014/2012/seminario-politecnico-milano-2012/)
 - **2011-01-17** [Seminario Università Bicocca 2011](2010-2014/2011/seminario-universit-bicocca-2011/)
 - **2010-12-21** [Seminario Politecnico Milano 2012](2010-2014/2010/seminario-politecnico-milano-2012/)
 

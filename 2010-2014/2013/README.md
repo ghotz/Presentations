@@ -1,7 +1,5 @@
 # 2013
 
-- [Seminario Politecnico Milano 2012](seminario-politecnico-milano-2012/)
-  - Talk: Panoramica SQL Server
 - [Seminario Politecnico Milano 2013](seminario-politecnico-milano-2013/)
   - Talk: Panoramica SQL Server
 - [Server Infrastructure Days 2013](server-infrastructure-days-2013/)

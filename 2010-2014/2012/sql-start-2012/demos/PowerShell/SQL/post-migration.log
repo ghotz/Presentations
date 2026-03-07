@@ -1,0 +1,276 @@
+Changed database context to 'master'.
+Start post-migration actions: 2012-09-28 13:42:35.863
+Start update allocation usage: 2012-09-28 13:42:35.870
+DBCC execution completed. If DBCC printed error messages, contact your system administrator.
+End update allocation usage: 2012-09-28 13:42:36.083
+Start integrity checks': 2012-09-28 13:42:36.087
+DBCC results for 'Northwind'.
+Service Broker Msg 9675, State 1: Message Types analyzed: 14.
+Service Broker Msg 9676, State 1: Service Contracts analyzed: 6.
+Service Broker Msg 9667, State 1: Services analyzed: 3.
+Service Broker Msg 9668, State 1: Service Queues analyzed: 3.
+Service Broker Msg 9669, State 1: Conversation Endpoints analyzed: 0.
+Service Broker Msg 9674, State 1: Conversation Groups analyzed: 0.
+Service Broker Msg 9670, State 1: Remote Service Bindings analyzed: 0.
+Service Broker Msg 9605, State 1: Conversation Priorities analyzed: 0.
+DBCC results for 'sys.sysrscols'.
+There are 790 rows in 9 pages for object "sys.sysrscols".
+DBCC results for 'sys.sysrowsets'.
+There are 136 rows in 2 pages for object "sys.sysrowsets".
+DBCC results for 'sys.sysallocunits'.
+There are 153 rows in 3 pages for object "sys.sysallocunits".
+DBCC results for 'sys.sysfiles1'.
+There are 2 rows in 1 pages for object "sys.sysfiles1".
+DBCC results for 'sys.syspriorities'.
+There are 0 rows in 0 pages for object "sys.syspriorities".
+DBCC results for 'sys.sysfgfrag'.
+There are 2 rows in 1 pages for object "sys.sysfgfrag".
+DBCC results for 'sys.sysphfg'.
+There are 1 rows in 1 pages for object "sys.sysphfg".
+DBCC results for 'sys.sysprufiles'.
+There are 2 rows in 1 pages for object "sys.sysprufiles".
+DBCC results for 'sys.sysftinds'.
+There are 0 rows in 0 pages for object "sys.sysftinds".
+DBCC results for 'sys.sysowners'.
+There are 14 rows in 1 pages for object "sys.sysowners".
+DBCC results for 'sys.sysprivs'.
+There are 262 rows in 2 pages for object "sys.sysprivs".
+DBCC results for 'sys.sysschobjs'.
+There are 135 rows in 3 pages for object "sys.sysschobjs".
+DBCC results for 'sys.syscolpars'.
+There are 688 rows in 11 pages for object "sys.syscolpars".
+DBCC results for 'sys.sysnsobjs'.
+There are 1 rows in 1 pages for object "sys.sysnsobjs".
+DBCC results for 'sys.syscerts'.
+There are 0 rows in 0 pages for object "sys.syscerts".
+DBCC results for 'sys.sysxprops'.
+There are 0 rows in 0 pages for object "sys.sysxprops".
+DBCC results for 'sys.sysscalartypes'.
+There are 34 rows in 1 pages for object "sys.sysscalartypes".
+DBCC results for 'sys.systypedsubobjs'.
+There are 0 rows in 0 pages for object "sys.systypedsubobjs".
+DBCC results for 'sys.sysidxstats'.
+There are 194 rows in 2 pages for object "sys.sysidxstats".
+DBCC results for 'sys.sysiscols'.
+There are 344 rows in 3 pages for object "sys.sysiscols".
+DBCC results for 'sys.sysbinobjs'.
+There are 23 rows in 1 pages for object "sys.sysbinobjs".
+DBCC results for 'sys.sysaudacts'.
+There are 0 rows in 0 pages for object "sys.sysaudacts".
+DBCC results for 'sys.sysobjvalues'.
+There are 232 rows in 42 pages for object "sys.sysobjvalues".
+DBCC results for 'sys.sysclsobjs'.
+There are 16 rows in 1 pages for object "sys.sysclsobjs".
+DBCC results for 'sys.sysrowsetrefs'.
+There are 0 rows in 0 pages for object "sys.sysrowsetrefs".
+DBCC results for 'sys.sysremsvcbinds'.
+There are 0 rows in 0 pages for object "sys.sysremsvcbinds".
+DBCC results for 'sys.sysxmitqueue'.
+There are 0 rows in 0 pages for object "sys.sysxmitqueue".
+DBCC results for 'sys.sysrts'.
+There are 1 rows in 1 pages for object "sys.sysrts".
+DBCC results for 'sys.sysconvgroup'.
+There are 0 rows in 0 pages for object "sys.sysconvgroup".
+DBCC results for 'sys.sysdesend'.
+There are 0 rows in 0 pages for object "sys.sysdesend".
+DBCC results for 'sys.sysdercv'.
+There are 0 rows in 0 pages for object "sys.sysdercv".
+DBCC results for 'sys.syssingleobjrefs'.
+There are 185 rows in 1 pages for object "sys.syssingleobjrefs".
+DBCC results for 'sys.sysmultiobjrefs'.
+There are 301 rows in 2 pages for object "sys.sysmultiobjrefs".
+DBCC results for 'sys.sysguidrefs'.
+There are 0 rows in 0 pages for object "sys.sysguidrefs".
+DBCC results for 'sys.syscompfragments'.
+There are 0 rows in 0 pages for object "sys.syscompfragments".
+DBCC results for 'sys.sysftstops'.
+There are 0 rows in 0 pages for object "sys.sysftstops".
+DBCC results for 'sys.sysqnames'.
+There are 97 rows in 1 pages for object "sys.sysqnames".
+DBCC results for 'sys.sysxmlcomponent'.
+There are 99 rows in 1 pages for object "sys.sysxmlcomponent".
+DBCC results for 'sys.sysxmlfacet'.
+There are 112 rows in 1 pages for object "sys.sysxmlfacet".
+DBCC results for 'sys.sysxmlplacement'.
+There are 18 rows in 1 pages for object "sys.sysxmlplacement".
+DBCC results for 'sys.sysobjkeycrypts'.
+There are 0 rows in 0 pages for object "sys.sysobjkeycrypts".
+DBCC results for 'sys.sysasymkeys'.
+There are 0 rows in 0 pages for object "sys.sysasymkeys".
+DBCC results for 'sys.syssqlguides'.
+There are 0 rows in 0 pages for object "sys.syssqlguides".
+DBCC results for 'sys.sysbinsubobjs'.
+There are 3 rows in 1 pages for object "sys.sysbinsubobjs".
+DBCC results for 'sys.syssoftobjrefs'.
+There are 54 rows in 1 pages for object "sys.syssoftobjrefs".
+DBCC results for 'Categories'.
+There are 8 rows in 1 pages for object "Categories".
+DBCC results for 'Customers'.
+There are 91 rows in 3 pages for object "Customers".
+DBCC results for 'Shippers'.
+There are 3 rows in 1 pages for object "Shippers".
+DBCC results for 'Suppliers'.
+There are 29 rows in 1 pages for object "Suppliers".
+DBCC results for 'Orders'.
+Msg 8928, Level 16, State 1, Server M6500\PROD2, Line 19
+Object ID 149575571, index ID 1, partition ID 72057594039697408, alloc unit ID 72057594040942592 (type In-row data): Page (1:283) could not be processed.  See other errors for details.
+Msg 8939, Level 16, State 98, Server M6500\PROD2, Line 19
+Table error: Object ID 149575571, index ID 1, partition ID 72057594039697408, alloc unit ID 72057594040942592 (type In-row data), page (1:283). Test (IS_OFF (BUF_IOERR, pBUF->bstat)) failed. Values are 12584969 and -4.
+Msg 8980, Level 16, State 1, Server M6500\PROD2, Line 19
+Table error: Object ID 149575571, index ID 1, partition ID 72057594039697408, alloc unit ID 72057594040942592 (type In-row data). Index node page (1:309), slot 0 refers to child page (1:283) and previous child (0:0), but they were not encountered.
+Msg 8978, Level 16, State 1, Server M6500\PROD2, Line 19
+Table error: Object ID 149575571, index ID 1, partition ID 72057594039697408, alloc unit ID 72057594040942592 (type In-row data). Page (1:310) is missing a reference from previous page (1:283). Possible chain linkage problem.
+There are 788 rows in 19 pages for object "Orders".
+CHECKDB found 0 allocation errors and 4 consistency errors in table 'Orders' (object ID 149575571).
+DBCC results for 'Products'.
+There are 77 rows in 1 pages for object "Products".
+DBCC results for 'Order Details'.
+There are 2155 rows in 9 pages for object "Order Details".
+DBCC results for 'CustomerCustomerDemo'.
+There are 0 rows in 0 pages for object "CustomerCustomerDemo".
+DBCC results for 'CustomerDemographics'.
+There are 0 rows in 0 pages for object "CustomerDemographics".
+DBCC results for 'Region'.
+There are 4 rows in 1 pages for object "Region".
+DBCC results for 'Territories'.
+There are 53 rows in 1 pages for object "Territories".
+DBCC results for 'EmployeeTerritories'.
+There are 49 rows in 1 pages for object "EmployeeTerritories".
+DBCC results for 'ProductsAudit'.
+There are 0 rows in 1 pages for object "ProductsAudit".
+DBCC results for 'sys.queue_messages_1977058079'.
+There are 0 rows in 0 pages for object "sys.queue_messages_1977058079".
+DBCC results for 'sys.queue_messages_2009058193'.
+There are 0 rows in 0 pages for object "sys.queue_messages_2009058193".
+DBCC results for 'sys.queue_messages_2041058307'.
+There are 0 rows in 0 pages for object "sys.queue_messages_2041058307".
+DBCC results for 'sys.filestream_tombstone_2073058421'.
+There are 0 rows in 0 pages for object "sys.filestream_tombstone_2073058421".
+DBCC results for 'sys.syscommittab'.
+There are 0 rows in 0 pages for object "sys.syscommittab".
+DBCC results for 'Employees'.
+There are 9 rows in 1 pages for object "Employees".
+CHECKDB found 0 allocation errors and 4 consistency errors in database 'Northwind'.
+repair_allow_data_loss is the minimum repair level for the errors found by DBCC CHECKDB (Northwind).
+DBCC execution completed. If DBCC printed error messages, contact your system administrator.
+End integrity checks': 2012-09-28 13:42:36.810
+Changed database context to 'Northwind'.
+Start statistics update: 2012-09-28 13:42:36.830
+Updating [dbo].[Categories]
+    [PK_Categories] has been updated...
+    [CategoryName] has been updated...
+    2 index(es)/statistic(s) have been updated, 0 did not require update.
+ 
+Updating [dbo].[Customers]
+    [PK_Customers], update is not necessary...
+    [City], update is not necessary...
+    [CompanyName], update is not necessary...
+    [PostalCode] has been updated...
+    [Region], update is not necessary...
+    [_WA_Sys_00000009_03317E3D], update is not necessary...
+    1 index(es)/statistic(s) have been updated, 5 did not require update.
+ 
+Updating [dbo].[Shippers]
+    [PK_Shippers] has been updated...
+    1 index(es)/statistic(s) have been updated, 0 did not require update.
+ 
+Updating [dbo].[Suppliers]
+    [PK_Suppliers] has been updated...
+    [CompanyName] has been updated...
+    [PostalCode] has been updated...
+    3 index(es)/statistic(s) have been updated, 0 did not require update.
+ 
+Updating [dbo].[Orders]
+    [PK_Orders], update is not necessary...
+    [CustomerID], update is not necessary...
+    [CustomersOrders], update is not necessary...
+    [EmployeeID] has been updated...
+    [EmployeesOrders] has been updated...
+    [OrderDate], update is not necessary...
+    [ShippedDate] has been updated...
+    [ShippersOrders] has been updated...
+    [ShipPostalCode] has been updated...
+    5 index(es)/statistic(s) have been updated, 4 did not require update.
+ 
+Updating [dbo].[Products]
+    [PK_Products], update is not necessary...
+    [CategoriesProducts] has been updated...
+    [CategoryID] has been updated...
+    [ProductName] has been updated...
+    [SupplierID], update is not necessary...
+    [SuppliersProducts], update is not necessary...
+    [_WA_Sys_00000006_0EA330E9] has been updated...
+    4 index(es)/statistic(s) have been updated, 3 did not require update.
+ 
+Updating [dbo].[Order Details]
+    [PK_Order_Details] has been updated...
+    [OrderID] has been updated...
+    [OrdersOrder_Details] has been updated...
+    [ProductID] has been updated...
+    [ProductsOrder_Details] has been updated...
+    5 index(es)/statistic(s) have been updated, 0 did not require update.
+ 
+Updating [dbo].[CustomerCustomerDemo]
+    [PK_CustomerCustomerDemo], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 1 did not require update.
+ 
+Updating [dbo].[CustomerDemographics]
+    [PK_CustomerDemographics], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 1 did not require update.
+ 
+Updating [dbo].[Region]
+    [PK_Region], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 1 did not require update.
+ 
+Updating [dbo].[Territories]
+    [PK_Territories], update is not necessary...
+    [_WA_Sys_00000003_3D5E1FD2], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 2 did not require update.
+ 
+Updating [dbo].[EmployeeTerritories]
+    [PK_EmployeeTerritories], update is not necessary...
+    [_WA_Sys_00000002_3E52440B], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 2 did not require update.
+ 
+Updating [dbo].[ProductsAudit]
+    [PK__Products__C656E67F4BAC3F29] has been updated...
+    1 index(es)/statistic(s) have been updated, 0 did not require update.
+ 
+Updating [sys].[queue_messages_1977058079]
+    [queue_clustered_index], update is not necessary...
+    [queue_secondary_index], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 2 did not require update.
+ 
+Updating [sys].[queue_messages_2009058193]
+    [queue_clustered_index], update is not necessary...
+    [queue_secondary_index], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 2 did not require update.
+ 
+Updating [sys].[queue_messages_2041058307]
+    [queue_clustered_index], update is not necessary...
+    [queue_secondary_index], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 2 did not require update.
+ 
+Updating [sys].[filestream_tombstone_2073058421]
+    [FSTSClusIdx], update is not necessary...
+    [FSTSNCIdx], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 2 did not require update.
+ 
+Updating [sys].[syscommittab]
+    [ci_commit_ts], update is not necessary...
+    [si_xdes_id], update is not necessary...
+    0 index(es)/statistic(s) have been updated, 2 did not require update.
+ 
+Updating [dbo].[Employees]
+    [PK_Employees], update is not necessary...
+    [LastName] has been updated...
+    [PostalCode] has been updated...
+    2 index(es)/statistic(s) have been updated, 1 did not require update.
+ 
+Statistics for all tables have been updated.
+End statistics update: 2012-09-28 13:42:36.960
+Changed database context to 'Northwind'.
+Start deletion of orphan schemas: 2012-09-28 13:42:37.000
+End deletion of orphan schemas: 2012-09-28 13:42:37.013
+Changed database context to 'master'.
+End post-migration actions: 2012-09-28 13:42:37.023

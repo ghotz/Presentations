@@ -1,0 +1,1 @@
+CHECKDB found (?<AllocErr>\d*) allocation errors and (?<ConsErr>\d*) consistency errors in database '(?<DBName>.*)'\.

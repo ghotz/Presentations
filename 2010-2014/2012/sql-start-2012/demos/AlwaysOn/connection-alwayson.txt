@@ -1,0 +1,1 @@
+ApplicationIntent=ReadOnly;MultiSubnetFailover=Yes
