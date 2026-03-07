@@ -2,14 +2,14 @@
 
 ## 2019
 
-- [Azure Bootcamp Milano 2019](2019/azure-bootcamp-milano-2019/)
-  - Talk: Azure PaaS Databases
-- [Azure Bootcamp Verona 2019](2019/azure-bootcamp-verona-2019/)
-  - Talk: Azure PaaS Databases
 - [Azure Saturday Pordenone 2019](2019/azure-saturday-pordenone-2019/)
   - Talk: Azure SQL Database
 - [DAMAG Meetup 2019-09](2019/damag-meetup-2019-09/)
   - Talk: Le novità di SQL Server 2019
+- [Global Azure Bootcamp Milano 2019](2019/global-azure-bootcamp-milano-2019/)
+  - Talk: Azure PaaS Databases
+- [Global Azure Bootcamp Verona 2019](2019/global-azure-bootcamp-verona-2019/)
+  - Talk: Azure PaaS Databases
 - [Microsoft Azure Training Day: Data and Analytics](2019/microsoft-azure-training-day-data-and-analytics/)
   - Talk: Modernizing Data Estate with Azure SQL Database and SQL Server 2019
 - [PASS Modern Migration Tour 2019](2019/pass-modern-migration-tour-2019/)
@@ -32,3 +32,9 @@
   - Talk: SQL Server Data Virtualization with Polybase
 - [XE One Day - Enterprise Applications](2019/xe-one-day-enterprise-applications/)
   - Talk: SQL Server Workload Profiling
+
+## 2018
+
+- [WPC 2018](2018/wpc-2018/)
+  - Talk: Mettere in sicurezza ambienti SQL Server
+  - Talk: SQL On-Premises vs SQL On-Cloud

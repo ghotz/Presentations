@@ -1,4 +1,4 @@
-# Azure Bootcamp Milano 2019
+# Global Azure Bootcamp Milano 2019
 
 - Event site: <https://dotnettoscana.org/eventi/global-azure-bootcamp-2019>
 - Sessionize: <https://sessionize.com/global-azure-bootcamp-italia>

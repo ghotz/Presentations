@@ -66,10 +66,14 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2019-06-14** [PASS Modern Migration Tour 2019](2015-2019/2019/pass-modern-migration-tour-2019/)
 - **2019-05-25** [XE One Day - Enterprise Applications](2015-2019/2019/xe-one-day-enterprise-applications/)
 - **2019-05-18** [SQL Saturday 871 Sardegna 2019](2015-2019/2019/sql-saturday-871-sardegna-2019/)
-- **2019-04-27** [Azure Bootcamp Verona 2019](2015-2019/2019/azure-bootcamp-verona-2019/)
-- **2019-04-27** [Azure Bootcamp Milano 2019](2015-2019/2019/azure-bootcamp-milano-2019/)
+- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
+- **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
 - **2019-04-06** [SQL Start 2019](2015-2019/2019/sql-start-2019/)
 - **2019-02-23** [SQL Saturday 829 Pordenone 2019](2015-2019/2019/sql-saturday-829-pordenone-2019/)
+
+### 2018
+
+- **2018-11-26** [WPC 2018](2015-2019/2018/wpc-2018/)
 
 ## By series
 
@@ -85,11 +89,6 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### AWS Webinars
 
 - **2021-11-03** [SQL Server on AWS](2020-2024/2021/sql-server-on-aws/)
-
-### Azure Bootcamp
-
-- **2019-04-27** [Azure Bootcamp Verona 2019](2015-2019/2019/azure-bootcamp-verona-2019/)
-- **2019-04-27** [Azure Bootcamp Milano 2019](2015-2019/2019/azure-bootcamp-milano-2019/)
 
 ### Azure Saturday
 
@@ -118,6 +117,11 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2022-11-26** [Data Saturday 22 Parma 2022](2020-2024/2022/data-saturday-22-parma-2022/)
 - **2022-02-26** [Data Saturday 20 Pordenone 2022](2020-2024/2022/data-saturday-20-pordenone-2022/)
 - **2021-02-27** [Data Saturday 1 Pordenone 2021](2020-2024/2021/data-saturday-1-pordenone-2021/)
+
+### Global Azure
+
+- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
+- **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
 
 ### Microsoft Azure Training Day
 
@@ -160,6 +164,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2022-10-17** [WPC 2022](2020-2024/2022/wpc-2022/)
 - **2020-11-18** [WPC 2020](2020-2024/2020/wpc-2020/)
 - **2019-12-03** [WPC 2019](2015-2019/2019/wpc-2019/)
+- **2018-11-26** [WPC 2018](2015-2019/2018/wpc-2018/)
 
 ### XE Events
 

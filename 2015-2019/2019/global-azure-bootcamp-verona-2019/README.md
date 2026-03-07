@@ -1,4 +1,4 @@
-# Azure Bootcamp Verona 2019
+# Global Azure Bootcamp Verona 2019
 
 - Event site: <https://web.archive.org/web/20190819222814/http://gab2019verona.azurewebsites.net>
 - Sessionize: <https://sessionize.com/gabvr2019>
