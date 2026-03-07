@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Objects Metadata", "01.Objects Metadata", "{934DD91B-4F21-4A67-A18F-3975B8C4B1CB}"
+	ProjectSection(SolutionItems) = preProject
+		xe.01.objects-metadata.sql = xe.01.objects-metadata.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Sample Session Locks", "03.Sample Session Locks", "{3303BF60-5D19-4F97-A362-1309EA4C2967}"
+	ProjectSection(SolutionItems) = preProject
+		xe.03.sample-session-locks.01.sql = xe.03.sample-session-locks.01.sql
+		xe.03.sample-session-locks.02.queries.sql = xe.03.sample-session-locks.02.queries.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.System Health Deadlocks", "04.System Health Deadlocks", "{BE96FCF7-266B-464A-8A0A-9BDE43229236}"
+	ProjectSection(SolutionItems) = preProject
+		xe.04.system_health-session.01.sql = xe.04.system_health-session.01.sql
+		xe.04.system_health-session.02.deadlock-conn1.sql = xe.04.system_health-session.02.deadlock-conn1.sql
+		xe.04.system_health-session.02.deadlock-conn2.sql = xe.04.system_health-session.02.deadlock-conn2.sql
+		xe.04.system_health-session.03.event-notification.sql = xe.04.system_health-session.03.event-notification.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Wait Stats", "05.Wait Stats", "{2F2AF989-4BAE-478F-93F5-75042967D9C2}"
+	ProjectSection(SolutionItems) = preProject
+		xe.05.query-wait-statistics.01.sql = xe.05.query-wait-statistics.01.sql
+		xe.05.query-wait-statistics.02.start-tcph-workload.bat = xe.05.query-wait-statistics.02.start-tcph-workload.bat
+		xe.05.query-wait-statistics.03.tcph-complex.sql = xe.05.query-wait-statistics.03.tcph-complex.sql
+		xe.05.query-wait-statistics.04.tcph-base.sql = xe.05.query-wait-statistics.04.tcph-base.sql
+		xe.05.query-wait-statistics.05.tcph-simple.sql = xe.05.query-wait-statistics.05.tcph-simple.sql
+		xe.05.query-wait-statistics.06.tcph-average.sql = xe.05.query-wait-statistics.06.tcph-average.sql
+		xe.05.query-wait-statistics.07.start-aworks-workload.bat = xe.05.query-wait-statistics.07.start-aworks-workload.bat
+		xe.05.query-wait-statistics.08.aworks-query1.sql = xe.05.query-wait-statistics.08.aworks-query1.sql
+		xe.05.query-wait-statistics.09.aworks-query2.sql = xe.05.query-wait-statistics.09.aworks-query2.sql
+		xe.05.query-wait-statistics.10.aworks-query3.sql = xe.05.query-wait-statistics.10.aworks-query3.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Sessions Metadata", "02.Sessions Metadata", "{7C856578-2853-4A6A-96BB-ABBA2390BC07}"
+	ProjectSection(SolutionItems) = preProject
+		xe.02.sessions-metadata.sql = xe.02.sessions-metadata.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Spot Query Statistics", "06.Spot Query Statistics", "{F8CACBD9-2FB9-4AD5-9463-392B7E633FA3}"
+	ProjectSection(SolutionItems) = preProject
+		xe.06.spot-query-statistics.01.sql = xe.06.spot-query-statistics.01.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.Tempdb Activity", "07.Tempdb Activity", "{DAB0B4F9-F062-4B31-9D86-09DCC0972255}"
+	ProjectSection(SolutionItems) = preProject
+		xe.07.tempdb.01.sql = xe.07.tempdb.01.sql
+		xe.07.tempdb.02.query.sql = xe.07.tempdb.02.query.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Performance Tuning", "08.Performance Tuning", "{A3B46560-049E-403B-A3AD-57154B1FEEEB}"
+	ProjectSection(SolutionItems) = preProject
+		xe.08.perf-tuning.01.sql = xe.08.perf-tuning.01.sql
+		xe.08.perf-tuning.02.queries.bat = xe.08.perf-tuning.02.queries.bat
+		xe.08.perf-tuning.03.queries.sql = xe.08.perf-tuning.03.queries.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF51010-084D-4E68-996F-3DB6AF22E0C2}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
