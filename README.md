@@ -3,7 +3,7 @@
 Slides and demo files from my sessions.
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
-**92** events, **108** talks, **21** series, **17** cities, **21** years (2005--2026).
+**96** events, **112** talks, **22** series, **18** cities, **23** years (2002--2026).
 
 ## By year
 
@@ -68,8 +68,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2019-06-14** [PASS Modern Migration Tour 2019](2015-2019/2019/pass-modern-migration-tour-2019/)
 - **2019-05-25** [XE One Day - Enterprise Applications](2015-2019/2019/xe-one-day-enterprise-applications/)
 - **2019-05-18** [SQL Saturday 871 Sardegna 2019](2015-2019/2019/sql-saturday-871-sardegna-2019/)
-- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
 - **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
+- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
 - **2019-04-06** [SQL Start 2019](2015-2019/2019/sql-start-2019/)
 - **2019-02-23** [SQL Saturday 829 Pordenone 2019](2015-2019/2019/sql-saturday-829-pordenone-2019/)
 
@@ -162,6 +162,16 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2005-12-06** [Seminario Politecnico Milano 2005](2005-2009/2005/seminario-politecnico-milano-2005/)
 
+### 2003
+
+- **2003-01-15** [Politecnico Milano 2003](2000-2004/2003/politecnico-milano-2003/)
+
+### 2002
+
+- **2002-06-24** [SQL Server Ask The Experts](2000-2004/2002/sql-server-ask-the-experts/)
+- **2002-06-20** [Università Messina 2002](2000-2004/2002/universit-messina-2002/)
+- **2002-03-01** [UGISS Workshop Milano 2002](2000-2004/2002/ugiss-workshop-milano-2002/)
+
 ## By series
 
 ### 1nn0va Events
@@ -237,6 +247,11 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2015-07-09** [Microsoft MVP Community Presentation](2015-2019/2015/microsoft-mvp-community-presentation/)
 - **2014-06-13** [SQL Server 2014 Microsoft Launch](2010-2014/2014/sql-server-2014-microsoft-launch/)
 
+### MIE Workshops
+
+- **2003-01-15** [Politecnico Milano 2003](2000-2004/2003/politecnico-milano-2003/)
+- **2002-06-20** [Università Messina 2002](2000-2004/2002/universit-messina-2002/)
+
 ### PASS Italian VG
 
 - **2020-04-15** [PASS Italian Virtual Group 2020-04](2020-2024/2020/pass-italian-virtual-group-2020-04/)
@@ -299,6 +314,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2007-10-03** [UGISS Workshop Milano 2007-10](2005-2009/2007/ugiss-workshop-milano-2007-10/)
 - **2007-07-04** [UGISS Workshop Milano 2007-07](2005-2009/2007/ugiss-workshop-milano-2007-07/)
 - **2007-02-27** [UGISS Workshop Milano 2007-02](2005-2009/2007/ugiss-workshop-milano-2007-02/)
+- **2002-06-24** [SQL Server Ask The Experts](2000-2004/2002/sql-server-ask-the-experts/)
+- **2002-03-01** [UGISS Workshop Milano 2002](2000-2004/2002/ugiss-workshop-milano-2002/)
 
 ### WPC
 
