@@ -3,7 +3,7 @@
 Slides and demo files from my sessions.
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
-**78** events, **91** talks, **20** series, **15** cities, **14** years (2013--2026).
+**85** events, **99** talks, **21** series, **16** cities, **17** years (2010--2026).
 
 ## By year
 
@@ -126,6 +126,22 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2013-06-19** [Server Infrastructure Days 2013](2010-2014/2013/server-infrastructure-days-2013/)
 - **2013-04-20** [SQL Saturday 196 Denmark 2013](2010-2014/2013/sql-saturday-196-denmark-2013/)
 - **2013-01-22** [Seminario Politecnico Milano 2013](2010-2014/2013/seminario-politecnico-milano-2013/)
+- **2013-01-22** [Seminario Politecnico Milano 2012](2010-2014/2013/seminario-politecnico-milano-2012/)
+
+### 2012
+
+- **2012-11-17** [SQL Saturday 176 Pordenone 2012](2010-2014/2012/sql-saturday-176-pordenone-2012/)
+- **2012-09-28** [SQL Start 2012](2010-2014/2012/sql-start-2012/)
+- **2012-04-17** [Seminario 1nn0va 2012-04](2010-2014/2012/seminario-1nn0va-2012-04/)
+
+### 2011
+
+- **2011-01-17** [Seminario Università Bicocca 2011](2010-2014/2011/seminario-universit-bicocca-2011/)
+
+### 2010
+
+- **2010-12-21** [Seminario Politecnico Milano 2012](2010-2014/2010/seminario-politecnico-milano-2012/)
+- **2010-11-16** [Community Tour 2010](2010-2014/2010/community-tour-2010/)
 
 ## By series
 
@@ -133,6 +149,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2021-02-02** [1nn0va After Hours Febbraio 2021](2020-2024/2021/1nn0va-after-hours-febbraio-2021/)
 - **2016-09-17** [SQL Tuning Saturday](2015-2019/2016/sql-tuning-saturday/)
+- **2012-04-17** [Seminario 1nn0va 2012-04](2010-2014/2012/seminario-1nn0va-2012-04/)
 
 ### AWS Online Tech Talks
 
@@ -188,7 +205,10 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### Microsoft Academy
 
 - **2014-01-14** [Seminario Politecnico Milano 2014](2010-2014/2014/seminario-politecnico-milano-2014/)
+- **2013-01-22** [Seminario Politecnico Milano 2012](2010-2014/2013/seminario-politecnico-milano-2012/)
 - **2013-01-22** [Seminario Politecnico Milano 2013](2010-2014/2013/seminario-politecnico-milano-2013/)
+- **2011-01-17** [Seminario Università Bicocca 2011](2010-2014/2011/seminario-universit-bicocca-2011/)
+- **2010-12-21** [Seminario Politecnico Milano 2012](2010-2014/2010/seminario-politecnico-milano-2012/)
 
 ### Microsoft Events
 
@@ -232,6 +252,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2015-05-23** [SQL Saturday 400 Torino 2015](2015-2019/2015/sql-saturday-400-torino-2015/)
 - **2013-12-13** [SQL Saturday 264 Ancona 2013](2010-2014/2013/sql-saturday-264-ancona-2013/)
 - **2013-04-20** [SQL Saturday 196 Denmark 2013](2010-2014/2013/sql-saturday-196-denmark-2013/)
+- **2012-11-17** [SQL Saturday 176 Pordenone 2012](2010-2014/2012/sql-saturday-176-pordenone-2012/)
 
 ### SQL Start
 
@@ -241,6 +262,11 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2021-06-11** [SQL Start 2021](2020-2024/2021/sql-start-2021/)
 - **2020-06-25** [SQL Start 2020](2020-2024/2020/sql-start-2020/)
 - **2019-04-06** [SQL Start 2019](2015-2019/2019/sql-start-2019/)
+- **2012-09-28** [SQL Start 2012](2010-2014/2012/sql-start-2012/)
+
+### UGISS Seminars
+
+- **2010-11-16** [Community Tour 2010](2010-2014/2010/community-tour-2010/)
 
 ### UGISS Webinars
 
