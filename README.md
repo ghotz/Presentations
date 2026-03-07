@@ -74,6 +74,15 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### 2018
 
 - **2018-11-26** [WPC 2018](2015-2019/2018/wpc-2018/)
+- **2018-11-24** [SQL Saturday 777 Parma 2018](2015-2019/2018/sql-saturday-777-parma-2018/)
+- **2018-10-06** [Azure Saturday Pordenone 2018](2015-2019/2018/azure-saturday-pordenone-2018/)
+- **2018-09-15** [XE One Day - Good Code](2015-2019/2018/xe-one-day-good-code/)
+- **2018-09-12** [PASS Italian Virtual Group 2018-09](2015-2019/2018/pass-italian-virtual-group-2018-09/)
+- **2018-05-19** [SQL Saturday 728 Catania 2018](2015-2019/2018/sql-saturday-728-catania-2018/)
+- **2018-04-21** [Global Azure Bootcamp Verona 2018](2015-2019/2018/global-azure-bootcamp-verona-2018/)
+- **2018-04-20** [XE SQL & NoSQL Night](2015-2019/2018/xe-sql-nosql-night/)
+- **2018-02-22** [Workshop Sicurezza DotNetLiguria](2015-2019/2018/workshop-sicurezza-dotnetliguria/)
+- **2018-02-17** [SQL Saturday 707 Pordenone 2018](2015-2019/2018/sql-saturday-707-pordenone-2018/)
 
 ## By series
 
@@ -93,6 +102,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### Azure Saturday
 
 - **2019-10-12** [Azure Saturday Pordenone 2019](2015-2019/2019/azure-saturday-pordenone-2019/)
+- **2018-10-06** [Azure Saturday Pordenone 2018](2015-2019/2018/azure-saturday-pordenone-2018/)
 
 ### Cloud Day
 
@@ -118,10 +128,15 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2022-02-26** [Data Saturday 20 Pordenone 2022](2020-2024/2022/data-saturday-20-pordenone-2022/)
 - **2021-02-27** [Data Saturday 1 Pordenone 2021](2020-2024/2021/data-saturday-1-pordenone-2021/)
 
+### DotNetLiguria Workshop
+
+- **2018-02-22** [Workshop Sicurezza DotNetLiguria](2015-2019/2018/workshop-sicurezza-dotnetliguria/)
+
 ### Global Azure
 
-- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
 - **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
+- **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
+- **2018-04-21** [Global Azure Bootcamp Verona 2018](2015-2019/2018/global-azure-bootcamp-verona-2018/)
 
 ### Microsoft Azure Training Day
 
@@ -130,6 +145,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### PASS Italian VG
 
 - **2020-04-15** [PASS Italian Virtual Group 2020-04](2020-2024/2020/pass-italian-virtual-group-2020-04/)
+- **2018-09-12** [PASS Italian Virtual Group 2018-09](2015-2019/2018/pass-italian-virtual-group-2018-09/)
 
 ### PASS Migration Tours
 
@@ -141,6 +157,9 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2019-11-23** [SQL Saturday 895 Parma 2019](2015-2019/2019/sql-saturday-895-parma-2019/)
 - **2019-05-18** [SQL Saturday 871 Sardegna 2019](2015-2019/2019/sql-saturday-871-sardegna-2019/)
 - **2019-02-23** [SQL Saturday 829 Pordenone 2019](2015-2019/2019/sql-saturday-829-pordenone-2019/)
+- **2018-11-24** [SQL Saturday 777 Parma 2018](2015-2019/2018/sql-saturday-777-parma-2018/)
+- **2018-05-19** [SQL Saturday 728 Catania 2018](2015-2019/2018/sql-saturday-728-catania-2018/)
+- **2018-02-17** [SQL Saturday 707 Pordenone 2018](2015-2019/2018/sql-saturday-707-pordenone-2018/)
 
 ### SQL Start
 
@@ -170,3 +189,5 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2025-05-23** [XE SQL Night 2025](2025-2029/2025/xe-sql-night-2025/)
 - **2019-05-25** [XE One Day - Enterprise Applications](2015-2019/2019/xe-one-day-enterprise-applications/)
+- **2018-09-15** [XE One Day - Good Code](2015-2019/2018/xe-one-day-good-code/)
+- **2018-04-20** [XE SQL & NoSQL Night](2015-2019/2018/xe-sql-nosql-night/)

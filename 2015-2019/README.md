@@ -35,6 +35,25 @@
 
 ## 2018
 
+- [Azure Saturday Pordenone 2018](2018/azure-saturday-pordenone-2018/)
+  - Talk: Azure PaaS Databases
+- [Global Azure Bootcamp Verona 2018](2018/global-azure-bootcamp-verona-2018/)
+  - Talk: Azure SQL Database
+  - Talk: SQL Server & GDPR
+- [PASS Italian Virtual Group 2018-09](2018/pass-italian-virtual-group-2018-09/)
+  - Talk: Novità di SQL Server 2017
+- [SQL Saturday 707 Pordenone 2018](2018/sql-saturday-707-pordenone-2018/)
+  - Talk: SQL Server Database Engine 2017 Enhancements
+- [SQL Saturday 728 Catania 2018](2018/sql-saturday-728-catania-2018/)
+  - Talk: SQL Server & GDPR
+- [SQL Saturday 777 Parma 2018](2018/sql-saturday-777-parma-2018/)
+  - Talk: AlwaysOn in SQL Server 2017
+- [Workshop Sicurezza DotNetLiguria](2018/workshop-sicurezza-dotnetliguria/)
+  - Talk: SQL Server and GDPR
 - [WPC 2018](2018/wpc-2018/)
   - Talk: Mettere in sicurezza ambienti SQL Server
   - Talk: SQL On-Premises vs SQL On-Cloud
+- [XE One Day - Good Code](2018/xe-one-day-good-code/)
+  - Talk: Best practices on SQL Server
+- [XE SQL & NoSQL Night](2018/xe-sql-nosql-night/)
+  - Talk: RDBMS - Pregi e difetti
