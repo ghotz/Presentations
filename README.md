@@ -3,7 +3,7 @@
 Slides and demo files from my sessions.
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
-**85** events, **99** talks, **21** series, **16** cities, **17** years (2010--2026).
+**92** events, **108** talks, **21** series, **17** cities, **21** years (2005--2026).
 
 ## By year
 
@@ -142,6 +142,25 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2010-12-21** [Seminario Politecnico Milano 2012](2010-2014/2010/seminario-politecnico-milano-2012/)
 - **2010-11-16** [Community Tour 2010](2010-2014/2010/community-tour-2010/)
+- **2010-01-15** [UGISS Workshop Alessandria 2010](2010-2014/2010/ugiss-workshop-alessandria-2010/)
+
+### 2008
+
+- **2008-05-14** [UGISS Workshop Roma 2008](2005-2009/2008/ugiss-workshop-roma-2008/)
+
+### 2007
+
+- **2007-10-03** [UGISS Workshop Milano 2007-10](2005-2009/2007/ugiss-workshop-milano-2007-10/)
+- **2007-07-04** [UGISS Workshop Milano 2007-07](2005-2009/2007/ugiss-workshop-milano-2007-07/)
+- **2007-02-27** [UGISS Workshop Milano 2007-02](2005-2009/2007/ugiss-workshop-milano-2007-02/)
+
+### 2006
+
+- **2006-12-05** [Seminario Politecnico Milano 2006](2005-2009/2006/seminario-politecnico-milano-2006/)
+
+### 2005
+
+- **2005-12-06** [Seminario Politecnico Milano 2005](2005-2009/2005/seminario-politecnico-milano-2005/)
 
 ## By series
 
@@ -198,8 +217,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 ### Global Azure
 
-- **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
 - **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
+- **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
 - **2018-04-21** [Global Azure Bootcamp Verona 2018](2015-2019/2018/global-azure-bootcamp-verona-2018/)
 
 ### Microsoft Academy
@@ -209,6 +228,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2012-01-24** [Seminario Politecnico Milano 2012](2010-2014/2012/seminario-politecnico-milano-2012/)
 - **2011-01-17** [Seminario Università Bicocca 2011](2010-2014/2011/seminario-universit-bicocca-2011/)
 - **2010-12-21** [Seminario Politecnico Milano 2012](2010-2014/2010/seminario-politecnico-milano-2012/)
+- **2006-12-05** [Seminario Politecnico Milano 2006](2005-2009/2006/seminario-politecnico-milano-2006/)
+- **2005-12-06** [Seminario Politecnico Milano 2005](2005-2009/2005/seminario-politecnico-milano-2005/)
 
 ### Microsoft Events
 
@@ -264,15 +285,20 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2019-04-06** [SQL Start 2019](2015-2019/2019/sql-start-2019/)
 - **2012-09-28** [SQL Start 2012](2010-2014/2012/sql-start-2012/)
 
-### UGISS Seminars
-
-- **2010-11-16** [Community Tour 2010](2010-2014/2010/community-tour-2010/)
-
 ### UGISS Webinars
 
 - **2022-06-16** [Webinar BBUP e Ordine Avvocati](2020-2024/2022/webinar-bbup-e-ordine-avvocati/)
 - **2020-12-17** [UGISS Webinar 2020-12](2020-2024/2020/ugiss-webinar-2020-12/)
 - **2014-06-19** [SQL Server 2014 Pills](2010-2014/2014/sql-server-2014-pills/)
+
+### UGISS Workshops
+
+- **2010-11-16** [Community Tour 2010](2010-2014/2010/community-tour-2010/)
+- **2010-01-15** [UGISS Workshop Alessandria 2010](2010-2014/2010/ugiss-workshop-alessandria-2010/)
+- **2008-05-14** [UGISS Workshop Roma 2008](2005-2009/2008/ugiss-workshop-roma-2008/)
+- **2007-10-03** [UGISS Workshop Milano 2007-10](2005-2009/2007/ugiss-workshop-milano-2007-10/)
+- **2007-07-04** [UGISS Workshop Milano 2007-07](2005-2009/2007/ugiss-workshop-milano-2007-07/)
+- **2007-02-27** [UGISS Workshop Milano 2007-02](2005-2009/2007/ugiss-workshop-milano-2007-02/)
 
 ### WPC
 

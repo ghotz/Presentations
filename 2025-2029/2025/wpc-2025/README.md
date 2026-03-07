@@ -5,4 +5,5 @@
 
 ## SQL Server 2025 - amministrazione e prestazioni
 
+- Slideshare: <https://www.slideshare.net/slideshow/sql-server-2025-amministrazione-e-prestazioni/286392209>
 - Sessionize: <https://sessionize.com/s/ghotz/sql-server-2025-amministrazione-e-prestazioni/143381>

@@ -47,3 +47,5 @@
   - Talk: SharePoint Administration from a DBA point of view - Best Practices
 - [Seminario Politecnico Milano 2012](2010/seminario-politecnico-milano-2012/)
   - Talk: Panoramica SQL Server
+- [UGISS Workshop Alessandria 2010](2010/ugiss-workshop-alessandria-2010/)
+  - Talk: Vincoli, Qualità dei dati e Normalizzazione
