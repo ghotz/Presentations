@@ -84,6 +84,14 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2018-02-22** [Workshop Sicurezza DotNetLiguria](2015-2019/2018/workshop-sicurezza-dotnetliguria/)
 - **2018-02-17** [SQL Saturday 707 Pordenone 2018](2015-2019/2018/sql-saturday-707-pordenone-2018/)
 
+### 2017
+
+- **2017-11-28** [WPC 2017](2015-2019/2017/wpc-2017/)
+- **2017-11-18** [SQL Saturday 675 Parma 2017](2015-2019/2017/sql-saturday-675-parma-2017/)
+- **2017-06-14** [Server Infrastructure Days 2017](2015-2019/2017/server-infrastructure-days-2017/)
+- **2017-02-25** [SQL Saturday 589 Pordenone 2017](2015-2019/2017/sql-saturday-589-pordenone-2017/)
+- **2017-02-01** [Technical Cloud Day 2017](2015-2019/2017/technical-cloud-day-2017/)
+
 ## By series
 
 ### 1nn0va After Hours
@@ -151,6 +159,11 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2019-06-14** [PASS Modern Migration Tour 2019](2015-2019/2019/pass-modern-migration-tour-2019/)
 
+### SID
+
+- **2017-06-14** [Server Infrastructure Days 2017](2015-2019/2017/server-infrastructure-days-2017/)
+- **2017-02-01** [Technical Cloud Day 2017](2015-2019/2017/technical-cloud-day-2017/)
+
 ### SQL Saturday
 
 - **2020-05-30** [SQL Saturday 921 Pordenone 2020](2020-2024/2020/sql-saturday-921-pordenone-2020/)
@@ -160,6 +173,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2018-11-24** [SQL Saturday 777 Parma 2018](2015-2019/2018/sql-saturday-777-parma-2018/)
 - **2018-05-19** [SQL Saturday 728 Catania 2018](2015-2019/2018/sql-saturday-728-catania-2018/)
 - **2018-02-17** [SQL Saturday 707 Pordenone 2018](2015-2019/2018/sql-saturday-707-pordenone-2018/)
+- **2017-11-18** [SQL Saturday 675 Parma 2017](2015-2019/2017/sql-saturday-675-parma-2017/)
+- **2017-02-25** [SQL Saturday 589 Pordenone 2017](2015-2019/2017/sql-saturday-589-pordenone-2017/)
 
 ### SQL Start
 
@@ -184,6 +199,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2020-11-18** [WPC 2020](2020-2024/2020/wpc-2020/)
 - **2019-12-03** [WPC 2019](2015-2019/2019/wpc-2019/)
 - **2018-11-26** [WPC 2018](2015-2019/2018/wpc-2018/)
+- **2017-11-28** [WPC 2017](2015-2019/2017/wpc-2017/)
 
 ### XE Events
 
