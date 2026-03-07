@@ -3,7 +3,7 @@
 Slides and demo files from my sessions.
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
-**69** events, **82** talks, **19** series, **14** cities, **12** years (2015--2026).
+**73** events, **86** talks, **19** series, **14** cities, **13** years (2014--2026).
 
 ## By year
 
@@ -112,6 +112,13 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2015-05-23** [SQL Saturday 400 Torino 2015](2015-2019/2015/sql-saturday-400-torino-2015/)
 - **2015-03-27** [Community Days 2015](2015-2019/2015/community-days-2015/)
 
+### 2014
+
+- **2014-06-19** [SQL Server 2014 Pills](2010-2014/2014/sql-server-2014-pills/)
+- **2014-06-18** [Server Infrastructure Days 2014](2010-2014/2014/server-infrastructure-days-2014/)
+- **2014-06-13** [SQL Server 2014 Microsoft Launch](2010-2014/2014/sql-server-2014-microsoft-launch/)
+- **2014-01-14** [Seiminario Bassi di Dati Politecnico Milano](2010-2014/2014/seiminario-bassi-di-dati-politecnico-milano/)
+
 ## By series
 
 ### 1nn0va Events
@@ -174,6 +181,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2019-12-12** [Microsoft Azure Training Day: Data and Analytics](2015-2019/2019/microsoft-azure-training-day-data-and-analytics/)
 - **2015-07-09** [Microsoft MVP Community Presentation](2015-2019/2015/microsoft-mvp-community-presentation/)
+- **2014-06-13** [SQL Server 2014 Microsoft Launch](2010-2014/2014/sql-server-2014-microsoft-launch/)
+- **2014-01-14** [Seiminario Bassi di Dati Politecnico Milano](2010-2014/2014/seiminario-bassi-di-dati-politecnico-milano/)
 
 ### PASS Italian VG
 
@@ -191,6 +200,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2016-06-15** [Server Infrastructure Days 2016](2015-2019/2016/server-infrastructure-days-2016/)
 - **2016-01-26** [Technical Cloud Day 2016](2015-2019/2016/technical-cloud-day-2016/)
 - **2015-06-17** [Server Infrastructure Days 2015](2015-2019/2015/server-infrastructure-days-2015/)
+- **2014-06-18** [Server Infrastructure Days 2014](2010-2014/2014/server-infrastructure-days-2014/)
 
 ### SQL Saturday
 
@@ -220,6 +230,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 - **2022-06-16** [Webinar BBUP e Ordine Avvocati](2020-2024/2022/webinar-bbup-e-ordine-avvocati/)
 - **2020-12-17** [UGISS Webinar 2020-12](2020-2024/2020/ugiss-webinar-2020-12/)
+- **2014-06-19** [SQL Server 2014 Pills](2010-2014/2014/sql-server-2014-pills/)
 
 ### WPC
 
