@@ -1,0 +1,9 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "katmai news", "katmai news\katmai news.ssmssqlproj", "{791A2877-09E7-4186-B2D4-E79E2E01453F}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

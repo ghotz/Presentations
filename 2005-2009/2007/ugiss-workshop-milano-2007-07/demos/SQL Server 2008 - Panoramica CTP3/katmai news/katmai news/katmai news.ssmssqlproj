@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="katmai news">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="XPTEST:XPTEST\Andrea">
+          <Created>2007-07-02T11:40:51.0431344+02:00</Created>
+          <Type>SQL</Type>
+          <Server>XPTEST</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01.merge.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:XPTEST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>XPTEST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01.merge.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.table valued parameter.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:XPTEST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>XPTEST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02.table valued parameter.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03.insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:XPTEST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>XPTEST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03.insert.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
