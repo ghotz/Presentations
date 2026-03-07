@@ -3,6 +3,8 @@
 Slides and demo files from my sessions.
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
+**69** events, **82** talks, **19** series, **14** cities, **12** years (2015--2026).
+
 ## By year
 
 ### 2026

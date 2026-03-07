@@ -162,6 +162,12 @@ function HasValue([string]$s) {
   return ($null -ne $s) -and ($s.Trim() -ne "")
 }
 
+function Test-DemoDirHasContent([string]$Path) {
+  if (-not (Test-Path $Path)) { return $false }
+  $items = Get-ChildItem -Path $Path -Recurse -File | Where-Object { $_.Name -ne ".gitkeep" }
+  return ($null -ne $items) -and (@($items).Count -gt 0)
+}
+
 function Resolve-Url([string]$url) {
   if ($SkipLinkCheck) { return $url.Trim() }
   return Test-Url $url.Trim()
@@ -208,8 +214,12 @@ foreach ($e in $events) {
     $e.event_repo = $eventRepoUrl
     $csvModified = $true
   }
-  if ($e.demo_url -ne $demoUrl) {
-    $e.demo_url = $demoUrl
+
+  # Only set demo_url if demos dir has actual content
+  $demoHasContent = Test-DemoDirHasContent $demoDir
+  $expectedDemoUrl = if ($demoHasContent) { $demoUrl } else { "" }
+  if ($e.demo_url -ne $expectedDemoUrl) {
+    $e.demo_url = $expectedDemoUrl
     $csvModified = $true
   }
 
@@ -360,6 +370,16 @@ $root.Add("# Presentations")
 $root.Add("")
 $root.Add("Slides and demo files from my sessions.")
 $root.Add("Event folders are generated from ``_meta/events.csv`` and ``_meta/talks.csv``.")
+$root.Add("")
+
+# --- Summary ---
+$totalEvents  = $indexData.Count
+$totalTalks   = $talks.Count
+$totalYears   = ($indexData | Select-Object -ExpandProperty Year -Unique).Count
+$totalSeries  = ($indexData | Select-Object -ExpandProperty Series -Unique).Count
+$totalCities  = ($events | Where-Object { HasValue $_.city } | ForEach-Object { $_.city.Trim() } | Sort-Object -Unique).Count
+
+$root.Add("**$totalEvents** events, **$totalTalks** talks, **$totalSeries** series, **$totalCities** cities, **$totalYears** years ($((($indexData | Sort-Object Year | Select-Object -ExpandProperty Year -Unique) | Select-Object -First 1))--$((($indexData | Sort-Object Year -Descending | Select-Object -ExpandProperty Year -Unique) | Select-Object -First 1))).")
 $root.Add("")
 
 # --- By year ---
