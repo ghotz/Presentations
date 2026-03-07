@@ -3,7 +3,7 @@
 Slides and demo files from my sessions.
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
-**73** events, **86** talks, **19** series, **14** cities, **13** years (2014--2026).
+**78** events, **91** talks, **20** series, **15** cities, **14** years (2013--2026).
 
 ## By year
 
@@ -117,7 +117,15 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2014-06-19** [SQL Server 2014 Pills](2010-2014/2014/sql-server-2014-pills/)
 - **2014-06-18** [Server Infrastructure Days 2014](2010-2014/2014/server-infrastructure-days-2014/)
 - **2014-06-13** [SQL Server 2014 Microsoft Launch](2010-2014/2014/sql-server-2014-microsoft-launch/)
-- **2014-01-14** [Seiminario Bassi di Dati Politecnico Milano](2010-2014/2014/seiminario-bassi-di-dati-politecnico-milano/)
+- **2014-01-14** [Seminario Politecnico Milano 2014](2010-2014/2014/seminario-politecnico-milano-2014/)
+
+### 2013
+
+- **2013-12-13** [SQL Saturday 264 Ancona 2013](2010-2014/2013/sql-saturday-264-ancona-2013/)
+- **2013-10-25** [Server Infrastructure Days Online 2013](2010-2014/2013/server-infrastructure-days-online-2013/)
+- **2013-06-19** [Server Infrastructure Days 2013](2010-2014/2013/server-infrastructure-days-2013/)
+- **2013-04-20** [SQL Saturday 196 Denmark 2013](2010-2014/2013/sql-saturday-196-denmark-2013/)
+- **2013-01-22** [Seminario Politecnico Milano 2013](2010-2014/2013/seminario-politecnico-milano-2013/)
 
 ## By series
 
@@ -177,12 +185,16 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
 - **2018-04-21** [Global Azure Bootcamp Verona 2018](2015-2019/2018/global-azure-bootcamp-verona-2018/)
 
+### Microsoft Academy
+
+- **2014-01-14** [Seminario Politecnico Milano 2014](2010-2014/2014/seminario-politecnico-milano-2014/)
+- **2013-01-22** [Seminario Politecnico Milano 2013](2010-2014/2013/seminario-politecnico-milano-2013/)
+
 ### Microsoft Events
 
 - **2019-12-12** [Microsoft Azure Training Day: Data and Analytics](2015-2019/2019/microsoft-azure-training-day-data-and-analytics/)
 - **2015-07-09** [Microsoft MVP Community Presentation](2015-2019/2015/microsoft-mvp-community-presentation/)
 - **2014-06-13** [SQL Server 2014 Microsoft Launch](2010-2014/2014/sql-server-2014-microsoft-launch/)
-- **2014-01-14** [Seiminario Bassi di Dati Politecnico Milano](2010-2014/2014/seiminario-bassi-di-dati-politecnico-milano/)
 
 ### PASS Italian VG
 
@@ -201,6 +213,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2016-01-26** [Technical Cloud Day 2016](2015-2019/2016/technical-cloud-day-2016/)
 - **2015-06-17** [Server Infrastructure Days 2015](2015-2019/2015/server-infrastructure-days-2015/)
 - **2014-06-18** [Server Infrastructure Days 2014](2010-2014/2014/server-infrastructure-days-2014/)
+- **2013-10-25** [Server Infrastructure Days Online 2013](2010-2014/2013/server-infrastructure-days-online-2013/)
+- **2013-06-19** [Server Infrastructure Days 2013](2010-2014/2013/server-infrastructure-days-2013/)
 
 ### SQL Saturday
 
@@ -216,6 +230,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2016-11-26** [SQL Saturday 566 Parma 2016](2015-2019/2016/sql-saturday-566-parma-2016/)
 - **2016-02-27** [SQL Saturday 495 Pordenone 2016](2015-2019/2016/sql-saturday-495-pordenone-2016/)
 - **2015-05-23** [SQL Saturday 400 Torino 2015](2015-2019/2015/sql-saturday-400-torino-2015/)
+- **2013-12-13** [SQL Saturday 264 Ancona 2013](2010-2014/2013/sql-saturday-264-ancona-2013/)
+- **2013-04-20** [SQL Saturday 196 Denmark 2013](2010-2014/2013/sql-saturday-196-denmark-2013/)
 
 ### SQL Start
 

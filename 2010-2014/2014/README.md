@@ -1,6 +1,6 @@
 # 2014
 
-- [Seiminario Bassi di Dati Politecnico Milano](seiminario-bassi-di-dati-politecnico-milano/)
+- [Seminario Politecnico Milano 2014](seminario-politecnico-milano-2014/)
   - Talk: Panoramica SQL Server
 - [Server Infrastructure Days 2014](server-infrastructure-days-2014/)
   - Talk: SQL Server 2014 What's New
