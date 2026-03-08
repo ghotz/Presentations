@@ -5,5 +5,6 @@
 
 ## SQL Server 2022 Programmability & Performance
 
+- Youtube: <https://www.youtube.com/watch?v=jFcas2hqBnM&>
 - Vimeo: <https://vimeo.com/ugiss/sqlserver2022>
 - Sessionize: <https://sessionize.com/s/ghotz/sql-server-2022-programmability-performance/163278>
