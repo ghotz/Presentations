@@ -5,4 +5,4 @@
 ## SQL Server Workload Profiling
 
 - Slideshare: <https://www.slideshare.net/slideshow/sql-server-workload-profiling/148033995>
-- Vimeo: <https://vimeo.com/338886164>
+- Vimeo: <https://vimeo.com/ugiss/sqlworkloadprofiling>

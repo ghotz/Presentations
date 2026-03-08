@@ -7,7 +7,6 @@
 
 - Slideshare: <https://www.slideshare.net/slideshow/sql-server-modern-query-processing-250267678/250267678>
 - Youtube: <https://www.youtube.com/watch?v=jh3CJ1ns0JQ>
-- Vimeo: <https://vimeo.com/ugiss/sqlserveraws>
 
 ## SQL Server in AWS
 

@@ -6,4 +6,5 @@
 ## Multitenancy con SQL Server e Azure SQL Database
 
 - Slideshare: <https://www.slideshare.net/slideshows/multitenancy-con-sql-server-e-azure-sql-database-5f01/266563309>
+- Vimeo: <https://vimeo.com/ugiss/sqlsaas>
 - Sessionize: <https://sessionize.com/s/ghotz/multitenancy-con-sql-server-e-azure-sql-database/104544>

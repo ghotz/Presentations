@@ -1,6 +1,9 @@
 # Presentations
 
 Slides and demo files from my sessions.
+
+Please link **only** to event **subdirectories**, not to individual files, to avoid broken links when files are renamed (they will!).
+
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 **96** events, **112** talks, **22** series, **18** cities, **23** years (2002--2026).

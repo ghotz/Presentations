@@ -6,5 +6,5 @@
 ## SQL Server Data Virtualization with polybase
 
 - Slideshare: <https://www.slideshare.net/slideshow/sql-server-data-virtualization-with-polybase-250265736/250265736>
-- Vimeo: <https://vimeo.com/ugiss/polybase?share=copy>
+- Vimeo: <https://vimeo.com/ugiss/polybase>
 - Sessionize: <https://sessionize.com/s/ghotz/sql-server-data-virtualization-con-polybase/37400>

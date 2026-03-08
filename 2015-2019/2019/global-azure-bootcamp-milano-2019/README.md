@@ -6,4 +6,5 @@
 ## Azure PaaS Databases
 
 - Slideshare: <https://www.slideshare.net/slideshow/azure-paas-databases-147906974/147906974>
+- Vimeo: <https://vimeo.com/ugiss/azurepaas>
 - Sessionize: <https://sessionize.com/s/ghotz/azure-paas-databases/163291>

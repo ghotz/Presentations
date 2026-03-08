@@ -5,3 +5,4 @@
 ## SQL Server & GDPR
 
 - Slideshare: <https://www.slideshare.net/ghotz/sql-server-gdpr>
+- Vimeo: <https://vimeo.com/ugiss/gdpr>
